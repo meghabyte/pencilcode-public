@@ -26,36 +26,25 @@ Example Usage:
 [0.9022969747700319]
 ```
 
-### Printing the last state of a program
+### Printing the first state of the first program trace
 
 ```
->>> print(all_tc.traces[-1].matched_programs[-1])
-speed 30
-dot thistle, 5000
-dot snow, 100
-fd 80
-dot snow, 75
-fd 60
-dot snow, 50
-bk 40
-dot black, 10
-bk 25
-dot black, 10
-bk 25
-dot black, 10
-fd 70
-lt 90
-fd 10
-dot blue, 10
-rt 180
-fd 20
-dot blue, 10
-rt 120
-fd 10
-pen black, 5
-lt 120, 10
-lt 60
-fd 10
-pu()
-lt 120
+>>> all_tc = TraceCollection()  
+>>> all_tc.load_trace_collection_json("rollouts/all_confetti")  
+>>> print(all_tc.traces[0].matched_programs[0])
+for [1..300]
+  moveto random position
+  dot random color
+```
+
+### Printing the last state of the first program trace (user edit adds speed)
+
+```
+>>> all_tc = TraceCollection()  
+>>> all_tc.load_trace_collection_json("rollouts/all_confetti")  
+>>> print(all_tc.traces[0].matched_programs[-1])
+for [1..300]
+  moveto random position
+  speed 1000
+  dot random color
 ```
