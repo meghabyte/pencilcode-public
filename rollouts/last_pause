@@ -1,0 +1,1252 @@
+[
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-10-15 18:29:40):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "eaba6eb34107aa015d4f8a3978f325a1",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-03-10 23:44:23):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "ed1d9e719fbc844d809a5174c2abba93",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-02-24 19:02:57):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "d227cc8fc62146ab017510d4f2263fd9",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-05-10 15:18:55):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|>",
+    "09bfd5f060eb9cc83ed167ba1b66b139",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-06 15:30:27):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "52d992d5fbda5865839849d967bb5fa9",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-03-27 16:05:25):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "6ffc62523baf2326b3c7c9f2ed25a958",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-04-04 12:25:28):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "979768ffea500dd5c7e78bf7c8d9d0f6",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-08-24 02:00:03):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "21bab82926e2ae1a224797592feb05d8",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-08-29 02:06:19):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "37662e7428c47d808501ebfa24070e61",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-03-08 00:53:27):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "2cf7b8bee727bcd63d691a77e712bcdc",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-03-02 13:37:55):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|>",
+    "f0d9f0cf12c0c0e164a5b9798b78b0fa",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-11-15 18:06:04):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|>",
+    "cba0f0e6b45083ef15e96ec20a7152c4",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-23 16:58:47):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "2967fe0ad91e7b69dc1ac7ea39b01be2",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-05-02 17:08:37):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "9843e9e85566a0a957fc80664edfc607",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-10-20 13:39:53):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|>",
+    "7a5dbe397e8b39a87db8d6feb95156c4",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-09-02 14:35:28):\nspeed 100\npen purple\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|>",
+    "1aa65c190cdd032539f55e60d7321f1d",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-03-22 14:09:47):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "77d58a4e1bc652deceeb1c1ca1d9d44f",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-06-20 20:07:14):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "3347fda878370839fd8b5c50b898fad2",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-10-11 12:19:59):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|>",
+    "058b4907859f1b19a568d43e6c8e5a75",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-01-24 14:20:36):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|>",
+    "6cbd8637325d4fce23f8d3da77ca0bf6",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-21 15:27:40):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "0eed4463fd8131c18614531945bffebb",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-05-22 14:13:17):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "403f025a027f44555418070e04c310d1",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-03-28 18:02:47):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "e0390d70887508bd58b8c2fa4846c938",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-11-13 22:05:57):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "9013ea47bbf4c019cc1a61473c16c88a",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-03-22 16:32:32):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "ca433de2df216ca576f97cef1e113622",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-11-21 14:58:02):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "5e98590e08affea8ef686e79acef2780",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-09 14:38:25):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|>",
+    "a8b1d5ad264bbe339ea936fdab466634",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-06 19:17:58):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|>",
+    "82fd59bd0f83205dee40690ca53a775e",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-08-30 00:58:23):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "a6e28da8a0a239328326373152dcd537",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-09-09 15:31:28):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|>",
+    "b7567d070ec3a5942809e24ce71490a1",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-04-11 14:22:35):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "27f13ff7d4d541e27bde7abc59918963",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-02 19:53:43):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "d542629a45bf7f3245de516762e943a3",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-11-13 14:19:41):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|>",
+    "0876d1bb39948f639334ae47dee8c4d2",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-09 14:11:58):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "984bd8da7dd52c6f58348ed7e10c973a",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-27 16:21:33):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "5a33adb67c0ef824a11cd955140fa919",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-05-03 13:34:21):\nspeed 100\npen red \nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|>",
+    "d34fd2963d5199010d85bb7b9670e60f",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-11-20 20:56:24):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "6d49596c5ab8131400c25a3cb074785a",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-09 13:34:29):\nspeed 100\npen red \nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|>",
+    "6c5cd9491afa1d7af1f29644c3bdf203",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-14 14:24:55):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "3e60b6c59823e5927b67aa7bc3ec7f3d",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-03 15:36:02):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "1178d9df14fd2c3964a7f1e2f0999850",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-05-02 18:13:14):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|>",
+    "dce0d73f66ef28de11bc8180e7f473d3",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-27 20:57:12):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "21e51ca1503c2fc0a64ba797b6693df6",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2024-04-30 16:48:35):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|>",
+    "4b7fc9441385c1ca519069463ad76ce6",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-25 17:53:17):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "ad124a1981c3e10e70d3c767b61e848a",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-03 16:20:13):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "5d839bc13d62b8ea639d51ea73745ace",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-12-04 19:06:35):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|>",
+    "7be79b85d194ae6fd12e866a973deb53",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-29 16:19:40):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "19e28353770441431e21286104c9695c",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-26 15:59:36):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "22b4259a873f4af56be92e683b2800b7",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-12-03 16:51:17):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "f7cd33215123ef69d229e6c991ecc03f",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-04-28 13:40:51):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|>",
+    "59c0cd6458e2abeba50ec95c46632996",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-09-28 13:50:22):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "eaba6eb34107aa015d4f8a3978f325a1",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-10-30 12:55:52):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "ed1d9e719fbc844d809a5174c2abba93",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-02-23 17:06:05):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "d227cc8fc62146ab017510d4f2263fd9",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-09-04 19:55:22):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "09bfd5f060eb9cc83ed167ba1b66b139",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-02-07 16:37:52):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "52d992d5fbda5865839849d967bb5fa9",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-08-23 13:55:26):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "6ffc62523baf2326b3c7c9f2ed25a958",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-02 00:08:39):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|>",
+    "979768ffea500dd5c7e78bf7c8d9d0f6",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-02-09 20:02:07):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "21bab82926e2ae1a224797592feb05d8",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-02-20 00:38:29):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "37662e7428c47d808501ebfa24070e61",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-03-06 00:56:21):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "2cf7b8bee727bcd63d691a77e712bcdc",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-10-03 16:28:04):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "f0d9f0cf12c0c0e164a5b9798b78b0fa",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-05-05 15:10:10):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|>",
+    "cba0f0e6b45083ef15e96ec20a7152c4",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-08-22 15:02:29):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "2967fe0ad91e7b69dc1ac7ea39b01be2",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-13 15:12:28):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|>",
+    "9843e9e85566a0a957fc80664edfc607",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-10-02 18:42:46):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|>",
+    "7a5dbe397e8b39a87db8d6feb95156c4",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-16 15:21:21):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "1aa65c190cdd032539f55e60d7321f1d",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-11-28 17:27:23):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "77d58a4e1bc652deceeb1c1ca1d9d44f",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-04-25 15:14:22):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "3347fda878370839fd8b5c50b898fad2",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-08 13:51:32):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "058b4907859f1b19a568d43e6c8e5a75",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-12-02 17:23:21):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "6cbd8637325d4fce23f8d3da77ca0bf6",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-09-27 19:17:19):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "0eed4463fd8131c18614531945bffebb",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-09-04 01:20:06):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "403f025a027f44555418070e04c310d1",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-01-28 14:41:07):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|>",
+    "e0390d70887508bd58b8c2fa4846c938",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-08 18:39:27):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "9013ea47bbf4c019cc1a61473c16c88a",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-03-14 20:30:04):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "ca433de2df216ca576f97cef1e113622",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-11-20 18:26:49):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "5e98590e08affea8ef686e79acef2780",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-07 20:36:47):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|>",
+    "a8b1d5ad264bbe339ea936fdab466634",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-07 20:43:27):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|>",
+    "82fd59bd0f83205dee40690ca53a775e",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-04-26 00:43:27):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "a6e28da8a0a239328326373152dcd537",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-08-31 16:37:23):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|>",
+    "b7567d070ec3a5942809e24ce71490a1",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-04-24 18:03:32):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "27f13ff7d4d541e27bde7abc59918963",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-04 16:29:02):\nspeed 100\npen red \nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10 \n    pause 2<|endoftext|>",
+    "d542629a45bf7f3245de516762e943a3",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-12-12 14:27:02):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|>",
+    "0876d1bb39948f639334ae47dee8c4d2",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-11-20 15:18:34):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "984bd8da7dd52c6f58348ed7e10c973a",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-29 15:12:36):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "5a33adb67c0ef824a11cd955140fa919",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-04-20 13:17:35):\nspeed 100\npen red \nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|>",
+    "d34fd2963d5199010d85bb7b9670e60f",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-04 20:47:13):\nspeed 100\npen red \nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|>",
+    "6d49596c5ab8131400c25a3cb074785a",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-09 13:55:16):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "6c5cd9491afa1d7af1f29644c3bdf203",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-09-28 14:40:26):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "3e60b6c59823e5927b67aa7bc3ec7f3d",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-09-29 13:55:32):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|>",
+    "1178d9df14fd2c3964a7f1e2f0999850",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-07 19:46:28):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|>",
+    "dce0d73f66ef28de11bc8180e7f473d3",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-12-11 15:27:29):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "21e51ca1503c2fc0a64ba797b6693df6",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-09 20:19:26):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "4b7fc9441385c1ca519069463ad76ce6",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-26 17:26:06):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "ad124a1981c3e10e70d3c767b61e848a",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-12-03 16:23:43):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "5d839bc13d62b8ea639d51ea73745ace",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-10-02 17:38:39):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|>",
+    "7be79b85d194ae6fd12e866a973deb53",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-28 14:12:30):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "19e28353770441431e21286104c9695c",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-27 15:17:07):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "22b4259a873f4af56be92e683b2800b7",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-08-31 19:05:30):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|>",
+    "f7cd33215123ef69d229e6c991ecc03f",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-05-20 13:08:20):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|>",
+    "59c0cd6458e2abeba50ec95c46632996",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-05 22:17:29):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "eaba6eb34107aa015d4f8a3978f325a1",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-01-08 19:13:29):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "ed1d9e719fbc844d809a5174c2abba93",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-01-16 17:43:16):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "d227cc8fc62146ab017510d4f2263fd9",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-04-27 00:59:31):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "09bfd5f060eb9cc83ed167ba1b66b139",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-03-15 14:43:07):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "52d992d5fbda5865839849d967bb5fa9",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-01-24 14:48:53):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "6ffc62523baf2326b3c7c9f2ed25a958",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-09-23 13:44:40):\nspeed 100\npen purple\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "979768ffea500dd5c7e78bf7c8d9d0f6",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-10-31 16:23:57):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "21bab82926e2ae1a224797592feb05d8",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-01-30 20:08:43):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "37662e7428c47d808501ebfa24070e61",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-02-28 00:41:25):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "2cf7b8bee727bcd63d691a77e712bcdc",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-02-21 17:14:58):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "f0d9f0cf12c0c0e164a5b9798b78b0fa",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-03-15 17:36:48):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "cba0f0e6b45083ef15e96ec20a7152c4",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-03-06 14:27:22):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "2967fe0ad91e7b69dc1ac7ea39b01be2",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-03-09 19:16:27):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "9843e9e85566a0a957fc80664edfc607",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-06-17 17:00:32):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "7a5dbe397e8b39a87db8d6feb95156c4",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-03-13 19:04:28):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "1aa65c190cdd032539f55e60d7321f1d",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-09-28 18:51:17):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "77d58a4e1bc652deceeb1c1ca1d9d44f",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-01-06 21:33:39):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "3347fda878370839fd8b5c50b898fad2",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-03-27 15:11:16):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "058b4907859f1b19a568d43e6c8e5a75",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-08-10 03:06:14):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "6cbd8637325d4fce23f8d3da77ca0bf6",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-06 04:29:32):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "0eed4463fd8131c18614531945bffebb",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-03-29 16:37:02):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "403f025a027f44555418070e04c310d1",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-10-07 14:55:41):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "e0390d70887508bd58b8c2fa4846c938",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-02-25 17:13:06):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "9013ea47bbf4c019cc1a61473c16c88a",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-04-26 00:16:33):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "ca433de2df216ca576f97cef1e113622",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-11-21 16:38:31):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "5e98590e08affea8ef686e79acef2780",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-11-28 19:46:57):\nspeed 100\npen red \nfor x in [1..20]\n  fd 80 \n  rt 100\n  if x is 10 \n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "a8b1d5ad264bbe339ea936fdab466634",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-13 19:40:52):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "82fd59bd0f83205dee40690ca53a775e",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-09-15 19:07:54):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "a6e28da8a0a239328326373152dcd537",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-05-05 17:10:53):\nspeed 100\npen red \nfor x in [1..20]\n   fd 80 \n   rt 100 \n   if x is 10 \n     pause 2<|endoftext|>",
+    "b7567d070ec3a5942809e24ce71490a1",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-02 16:02:18):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "27f13ff7d4d541e27bde7abc59918963",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-09 16:56:38):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "d542629a45bf7f3245de516762e943a3",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-11-28 14:13:28):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "0876d1bb39948f639334ae47dee8c4d2",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-11-20 14:26:27):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "984bd8da7dd52c6f58348ed7e10c973a",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-25 14:06:16):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "5a33adb67c0ef824a11cd955140fa919",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-05-04 13:21:07):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "d34fd2963d5199010d85bb7b9670e60f",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-09 17:24:08):\nspeed 100\npen red \nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "6d49596c5ab8131400c25a3cb074785a",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-08-31 16:37:06):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "6c5cd9491afa1d7af1f29644c3bdf203",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-09-01 16:25:40):\nspeed 100\npen red \nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "3e60b6c59823e5927b67aa7bc3ec7f3d",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-08 13:11:41):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "1178d9df14fd2c3964a7f1e2f0999850",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-11-11 19:13:17):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "dce0d73f66ef28de11bc8180e7f473d3",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-30 17:36:33):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "21e51ca1503c2fc0a64ba797b6693df6",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-05 18:13:18):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "4b7fc9441385c1ca519069463ad76ce6",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-26 15:39:47):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "ad124a1981c3e10e70d3c767b61e848a",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-11 17:00:52):\nspeed 100\npen red \nfor x in [1..20]\n    fd 80\n    rt 100\n    if x is 10\n      pause 2<|endoftext|>",
+    "5d839bc13d62b8ea639d51ea73745ace",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-09-19 18:43:36):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "7be79b85d194ae6fd12e866a973deb53",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-29 14:53:37):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "19e28353770441431e21286104c9695c",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-12-04 16:41:39):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "22b4259a873f4af56be92e683b2800b7",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-28 17:32:25):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "f7cd33215123ef69d229e6c991ecc03f",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-05-03 13:28:42):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "59c0cd6458e2abeba50ec95c46632996",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-02-21 13:23:54):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "eaba6eb34107aa015d4f8a3978f325a1",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-10 17:03:05):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "ed1d9e719fbc844d809a5174c2abba93",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-02-07 19:28:59):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "d227cc8fc62146ab017510d4f2263fd9",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-12-07 00:27:40):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "09bfd5f060eb9cc83ed167ba1b66b139",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-01-13 17:35:42):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "52d992d5fbda5865839849d967bb5fa9",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-02-01 23:28:23):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "6ffc62523baf2326b3c7c9f2ed25a958",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-11-19 17:28:42):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "979768ffea500dd5c7e78bf7c8d9d0f6",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-11-16 20:22:06):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "21bab82926e2ae1a224797592feb05d8",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-27 17:12:14):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "37662e7428c47d808501ebfa24070e61",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-07-06 15:37:57):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "2cf7b8bee727bcd63d691a77e712bcdc",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-04-05 15:13:37):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "f0d9f0cf12c0c0e164a5b9798b78b0fa",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-14 17:21:05):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "cba0f0e6b45083ef15e96ec20a7152c4",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-11-14 01:17:17):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "2967fe0ad91e7b69dc1ac7ea39b01be2",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-08-30 14:25:26):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "9843e9e85566a0a957fc80664edfc607",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-05-15 08:21:36):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "7a5dbe397e8b39a87db8d6feb95156c4",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-05-17 14:55:23):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "1aa65c190cdd032539f55e60d7321f1d",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-11-14 15:52:54):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "77d58a4e1bc652deceeb1c1ca1d9d44f",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-03-07 18:02:43):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "3347fda878370839fd8b5c50b898fad2",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-03-29 15:36:37):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "058b4907859f1b19a568d43e6c8e5a75",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-03-09 18:37:14):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "6cbd8637325d4fce23f8d3da77ca0bf6",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-05 01:42:56):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "0eed4463fd8131c18614531945bffebb",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-02-14 14:59:36):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "403f025a027f44555418070e04c310d1",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-30 16:02:22):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "e0390d70887508bd58b8c2fa4846c938",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-03-13 19:12:05):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "9013ea47bbf4c019cc1a61473c16c88a",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-02-08 17:18:36):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "ca433de2df216ca576f97cef1e113622",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-11-29 15:32:49):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "5e98590e08affea8ef686e79acef2780",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-12 20:47:42):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "a8b1d5ad264bbe339ea936fdab466634",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-11-29 14:20:33):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "82fd59bd0f83205dee40690ca53a775e",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-04-26 16:01:57):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "a6e28da8a0a239328326373152dcd537",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-01 13:28:04):\nspeed 100\npen red \nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10 \n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "b7567d070ec3a5942809e24ce71490a1",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-03 15:29:51):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "27f13ff7d4d541e27bde7abc59918963",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-12 20:15:23):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "d542629a45bf7f3245de516762e943a3",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-11-13 14:35:58):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "0876d1bb39948f639334ae47dee8c4d2",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-11-20 14:14:59):\nspeed 100\npen red \nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "984bd8da7dd52c6f58348ed7e10c973a",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-14 16:16:39):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "5a33adb67c0ef824a11cd955140fa919",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-04-25 13:20:52):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "d34fd2963d5199010d85bb7b9670e60f",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-11-20 16:39:48):\nspeed 100\npen red \nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "6d49596c5ab8131400c25a3cb074785a",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-23 13:48:47):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "6c5cd9491afa1d7af1f29644c3bdf203",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-08-31 16:35:47):\nspeed 100\npen red \nfor x in [1..20]\n   fd 80\n   rt 100\n   if x is 10\n     pause 2<|endoftext|>",
+    "3e60b6c59823e5927b67aa7bc3ec7f3d",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-05-12 16:04:06):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "1178d9df14fd2c3964a7f1e2f0999850",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-11-19 14:34:03):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "dce0d73f66ef28de11bc8180e7f473d3",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-29 15:19:31):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "21e51ca1503c2fc0a64ba797b6693df6",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-04 17:54:20):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "4b7fc9441385c1ca519069463ad76ce6",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-25 17:54:37):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "ad124a1981c3e10e70d3c767b61e848a",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-10-02 15:38:09):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "5d839bc13d62b8ea639d51ea73745ace",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2024-04-26 18:03:06):\nspeed 100\npen red \nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "7be79b85d194ae6fd12e866a973deb53",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-28 18:11:44):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "19e28353770441431e21286104c9695c",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-29 15:11:56):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "22b4259a873f4af56be92e683b2800b7",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-12-03 18:52:37):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "f7cd33215123ef69d229e6c991ecc03f",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-05-12 14:06:33):\nspeed 100\npen red \nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "59c0cd6458e2abeba50ec95c46632996",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-11-29 01:36:20):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "eaba6eb34107aa015d4f8a3978f325a1",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-09 15:59:55):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "ed1d9e719fbc844d809a5174c2abba93",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-01-10 18:23:10):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "d227cc8fc62146ab017510d4f2263fd9",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-03-23 13:16:20):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "09bfd5f060eb9cc83ed167ba1b66b139",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-09-25 12:19:13):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "52d992d5fbda5865839849d967bb5fa9",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-10-01 02:04:11):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "6ffc62523baf2326b3c7c9f2ed25a958",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-03-22 18:02:24):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "979768ffea500dd5c7e78bf7c8d9d0f6",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-09-25 12:28:05):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "21bab82926e2ae1a224797592feb05d8",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-02 18:08:20):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "37662e7428c47d808501ebfa24070e61",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-03-20 04:55:56):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "2cf7b8bee727bcd63d691a77e712bcdc",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-10-01 13:38:58):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "f0d9f0cf12c0c0e164a5b9798b78b0fa",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-05-07 13:20:56):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "cba0f0e6b45083ef15e96ec20a7152c4",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-03-29 12:35:38):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "2967fe0ad91e7b69dc1ac7ea39b01be2",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-10-05 00:02:07):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "9843e9e85566a0a957fc80664edfc607",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-05-19 00:32:58):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "7a5dbe397e8b39a87db8d6feb95156c4",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-04-29 16:08:17):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "1aa65c190cdd032539f55e60d7321f1d",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-10-30 17:02:47):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "77d58a4e1bc652deceeb1c1ca1d9d44f",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-01 19:55:27):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "3347fda878370839fd8b5c50b898fad2",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-10-13 18:06:21):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "058b4907859f1b19a568d43e6c8e5a75",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-03-31 14:21:23):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "6cbd8637325d4fce23f8d3da77ca0bf6",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-11-16 16:29:55):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "0eed4463fd8131c18614531945bffebb",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-01-11 21:28:53):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "403f025a027f44555418070e04c310d1",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-03 12:26:54):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "e0390d70887508bd58b8c2fa4846c938",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-02-28 17:24:27):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "9013ea47bbf4c019cc1a61473c16c88a",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-10-29 19:39:09):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "ca433de2df216ca576f97cef1e113622",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-11-21 16:17:53):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "5e98590e08affea8ef686e79acef2780",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-13 18:48:52):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "a8b1d5ad264bbe339ea936fdab466634",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-08 20:35:35):\nspeed 100\npen red \nfor x in [1..20]\n  fd 80 \n  rt 100\n  if x is 10 \n    pause 2<|endoftext|>",
+    "82fd59bd0f83205dee40690ca53a775e",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-07 23:09:08):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "a6e28da8a0a239328326373152dcd537",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-04-29 14:06:36):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "b7567d070ec3a5942809e24ce71490a1",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-04-25 14:03:17):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "27f13ff7d4d541e27bde7abc59918963",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-13 14:43:06):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "d542629a45bf7f3245de516762e943a3",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-11-28 14:17:53):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "0876d1bb39948f639334ae47dee8c4d2",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-11-20 14:22:52):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "984bd8da7dd52c6f58348ed7e10c973a",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-28 18:19:39):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "5a33adb67c0ef824a11cd955140fa919",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-11-17 17:10:33):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "d34fd2963d5199010d85bb7b9670e60f",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-11-20 17:41:09):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "6d49596c5ab8131400c25a3cb074785a",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-09-05 13:41:39):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "6c5cd9491afa1d7af1f29644c3bdf203",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-09-01 17:24:54):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "3e60b6c59823e5927b67aa7bc3ec7f3d",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-05-11 15:23:19):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "1178d9df14fd2c3964a7f1e2f0999850",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-11-29 14:35:28):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "dce0d73f66ef28de11bc8180e7f473d3",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-29 15:11:43):\nspeed 100\npen red \nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "21e51ca1503c2fc0a64ba797b6693df6",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-11 19:01:27):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "4b7fc9441385c1ca519069463ad76ce6",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-25 17:42:34):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "ad124a1981c3e10e70d3c767b61e848a",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-11 16:57:09):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "5d839bc13d62b8ea639d51ea73745ace",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-06 17:58:55):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "7be79b85d194ae6fd12e866a973deb53",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-28 18:54:14):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "19e28353770441431e21286104c9695c",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-26 14:45:07):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "22b4259a873f4af56be92e683b2800b7",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-29 16:45:55):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "f7cd33215123ef69d229e6c991ecc03f",
+    "pause"
+  ],
+  [
+    "pause<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-05-20 13:00:32):\nspeed 100\npen red\nfor x in [1..20]\n  fd 80\n  rt 100\n  if x is 10\n    pause 2<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "59c0cd6458e2abeba50ec95c46632996",
+    "pause"
+  ]
+]

@@ -1,0 +1,1252 @@
+[
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-08-20 18:08:15):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "004c88dc1bc82ffb0f60442d3473bb83",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-07 13:17:30):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "98d435422bfd481a47545ed5bd7add71",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-01-06 15:17:17):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "3e1e8bcbe167dee79cdd750813237b46",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-09 18:06:38):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "80458f64b3717534617b557ef5091934",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-08-30 19:23:16):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "9a6c34d36b44bed540e5693be643bda3",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-22 14:55:19):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "58a4fb43df5db5bc4d75869b777b84f3",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-09-27 14:52:09):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "f1e76ba773aac964b1354680d5133272",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-03-09 15:10:05):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "de00c58d609b7f414dbda6a04ee7c6a1",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-08-31 15:17:27):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "063066ae85521e3ab27919f13bf0bd79",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-05 18:43:28):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "7e89ec9365e6446655263fbee47d8f51",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-12 19:53:07):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "2dbb69244f560abce733d2632485f06b",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-01-19 18:01:41):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "1a14953b321132eda5020525549093e5",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-05 23:51:33):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "352bc34b0eb8a26434e35a7cbc51fd3f",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-12-11 18:59:04):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "40ba05b01e0b13941379db32cd7a0b5a",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-05-22 20:07:42):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "40ee7fcec92b7521fc39309f80de3315",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-05-24 16:32:08):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "ebe9832fb0d41daa2475761f2bb860af",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-01-26 18:25:37):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "837defdf175c74b95b7571ebaa457c3d",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-22 17:26:25):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "f886dfded2d2eabab38fa03eaaf5ba9e",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-09-14 15:15:02):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "85f1a346ed411b9181b47541e85c9ea7",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-06 14:17:58):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "6f23ac15d251f1cfeb8541101b1ed52c",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-05-30 17:06:35):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "2ea9dc5493771d7edf0241a4fbdfe280",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-08 15:04:05):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "e8c20aef3220d8795ab305c455a3fd54",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-08 18:57:12):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "0eed4463fd8131c18614531945bffebb",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-01-11 17:09:33):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "ce7dbfcaa1c66cd22fce59fcf58fba7d",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-16 18:14:58):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "2ff5a3ea97a2cab3d7f390686614641f",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-09 15:38:56):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "3251f455c84c5f223cbbf06c43d32843",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-12-08 20:58:57):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "72c010f4be09257c4300ca91812331fa",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-09 17:19:26):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "bfbae2fcc3caa48180c46273e1f3758a",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-13 13:31:32):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "be847930da1cf598fcb5c78fe993cd18",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-11-30 14:37:20):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "568dc28e3eb8fcdf1812fe7dbbc6d5a0",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-09 20:20:02):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "e407bbcf3400f6b91ea3ba63423c21f4",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-06 14:41:04):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "29c23439b366f069823c9d4ac9be868e",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-14 15:41:41):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "af207955229ce68d81bfe5a7c23cd000",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-06 16:17:52):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "a3435a9538e75c351b1bb1db7a4e400f",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-05-07 13:09:10):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "f54651dc2e9ab7582687ecfcf67b574e",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-05 18:59:21):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "426ebf859244d6f92abc6a1ffc368841",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-05 14:12:28):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "7297ea7056b94f1706dbf4a44cf98d56",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-11 17:43:54):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "5cfb1a6d101215162f4e228882bfeb67",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-12-05 18:40:31):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "0d3a7e9264a24312c1b7d06e641384b3",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-11-12 18:19:54):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "4d11ada83d87e2bab8a52e095a8152e1",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-05-03 16:34:40):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "6d3c0b41a3ecb6fd57415221b19871de",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-12-05 16:32:26):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "57635db044cc06b42b93ab762b1a8ecc",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-07 20:02:52):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "a2099fa00ba824874d32d6e12a5a485a",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-06 14:16:38):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "82cac074c005649a891bc1abe1a2daee",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-12-07 20:07:57):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "e3e5e566d5ed148e458e10695181de1f",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-09 13:28:22):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "1bb45a54dad1232ca1affa4f43dd5ad4",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-09-29 12:54:34):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "fc19c9b6fbede2b812d655992dce21c9",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-11 13:15:41):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "a7410980356f502891b885c39e8d089f",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-06 17:26:30):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "098731670b40e4df696837bff12a6f3b",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-05-11 13:19:59):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "6fe8e3323893ccef740ddd3916362173",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-08-23 17:12:05):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "004c88dc1bc82ffb0f60442d3473bb83",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-16 15:42:39):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "98d435422bfd481a47545ed5bd7add71",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-06 14:23:53):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "3e1e8bcbe167dee79cdd750813237b46",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-17 16:13:35):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "80458f64b3717534617b557ef5091934",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-05-01 16:24:28):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "9a6c34d36b44bed540e5693be643bda3",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-09-13 18:39:53):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "58a4fb43df5db5bc4d75869b777b84f3",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-05-24 16:35:43):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "f1e76ba773aac964b1354680d5133272",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-05-08 15:41:54):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "de00c58d609b7f414dbda6a04ee7c6a1",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-07 13:23:43):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "063066ae85521e3ab27919f13bf0bd79",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-03 14:22:42):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "7e89ec9365e6446655263fbee47d8f51",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-04-05 15:22:04):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "2dbb69244f560abce733d2632485f06b",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-09-07 17:21:23):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "1a14953b321132eda5020525549093e5",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-09-14 13:13:22):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "352bc34b0eb8a26434e35a7cbc51fd3f",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-08-31 14:55:32):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "40ba05b01e0b13941379db32cd7a0b5a",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-11-06 19:53:29):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "40ee7fcec92b7521fc39309f80de3315",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-08 20:27:30):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "ebe9832fb0d41daa2475761f2bb860af",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-16 15:56:53):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "837defdf175c74b95b7571ebaa457c3d",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-05-27 19:08:39):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "f886dfded2d2eabab38fa03eaaf5ba9e",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-09-20 17:43:58):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "85f1a346ed411b9181b47541e85c9ea7",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-14 17:16:52):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "6f23ac15d251f1cfeb8541101b1ed52c",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-07 15:26:59):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "2ea9dc5493771d7edf0241a4fbdfe280",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-06-05 14:16:17):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "e8c20aef3220d8795ab305c455a3fd54",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-13 19:43:22):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "0eed4463fd8131c18614531945bffebb",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-16 16:04:27):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "ce7dbfcaa1c66cd22fce59fcf58fba7d",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-11 19:10:56):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "2ff5a3ea97a2cab3d7f390686614641f",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-10 13:08:53):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "3251f455c84c5f223cbbf06c43d32843",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-12-01 20:04:13):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "72c010f4be09257c4300ca91812331fa",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-06 16:27:42):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "bfbae2fcc3caa48180c46273e1f3758a",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-07 15:32:26):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "be847930da1cf598fcb5c78fe993cd18",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-11-30 14:28:05):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "568dc28e3eb8fcdf1812fe7dbbc6d5a0",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-09 16:18:17):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "e407bbcf3400f6b91ea3ba63423c21f4",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-07 14:08:27):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "29c23439b366f069823c9d4ac9be868e",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-13 20:53:25):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "af207955229ce68d81bfe5a7c23cd000",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-06 18:32:44):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "a3435a9538e75c351b1bb1db7a4e400f",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-05-18 13:13:20):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "f54651dc2e9ab7582687ecfcf67b574e",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-06 15:28:47):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "426ebf859244d6f92abc6a1ffc368841",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-09 14:15:16):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "7297ea7056b94f1706dbf4a44cf98d56",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-16 19:07:30):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "5cfb1a6d101215162f4e228882bfeb67",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-12-07 16:37:14):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "0d3a7e9264a24312c1b7d06e641384b3",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-09-13 14:14:09):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "4d11ada83d87e2bab8a52e095a8152e1",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-05-12 13:19:28):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "6d3c0b41a3ecb6fd57415221b19871de",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-12-06 16:56:40):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "57635db044cc06b42b93ab762b1a8ecc",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-09 20:48:17):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "a2099fa00ba824874d32d6e12a5a485a",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-09 14:29:30):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "82cac074c005649a891bc1abe1a2daee",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-12-01 14:15:06):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "e3e5e566d5ed148e458e10695181de1f",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-09-29 13:24:20):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "1bb45a54dad1232ca1affa4f43dd5ad4",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-09-09 15:30:04):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "fc19c9b6fbede2b812d655992dce21c9",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-12-02 14:04:30):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "a7410980356f502891b885c39e8d089f",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-06 16:28:04):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "098731670b40e4df696837bff12a6f3b",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-05-11 13:20:06):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "6fe8e3323893ccef740ddd3916362173",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-05-09 19:22:17):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "004c88dc1bc82ffb0f60442d3473bb83",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-08-23 01:32:02):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "98d435422bfd481a47545ed5bd7add71",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-05 18:18:02):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "3e1e8bcbe167dee79cdd750813237b46",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-05-10 17:04:20):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "80458f64b3717534617b557ef5091934",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-06 15:06:30):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "9a6c34d36b44bed540e5693be643bda3",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-19 19:15:09):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "58a4fb43df5db5bc4d75869b777b84f3",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-03-16 20:33:57):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "f1e76ba773aac964b1354680d5133272",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-11-07 17:15:08):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "de00c58d609b7f414dbda6a04ee7c6a1",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-05-12 17:57:20):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "063066ae85521e3ab27919f13bf0bd79",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-05-16 13:55:28):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "7e89ec9365e6446655263fbee47d8f51",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-06 13:56:27):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "2dbb69244f560abce733d2632485f06b",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-06 14:48:52):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "1a14953b321132eda5020525549093e5",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-18 18:17:47):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "352bc34b0eb8a26434e35a7cbc51fd3f",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-16 18:17:37):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "40ba05b01e0b13941379db32cd7a0b5a",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-14 15:20:38):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "40ee7fcec92b7521fc39309f80de3315",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-01-19 17:38:23):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "ebe9832fb0d41daa2475761f2bb860af",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-12 17:30:55):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "837defdf175c74b95b7571ebaa457c3d",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-05-11 13:16:11):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "f886dfded2d2eabab38fa03eaaf5ba9e",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-10 13:13:39):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "85f1a346ed411b9181b47541e85c9ea7",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-08-31 20:12:09):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "6f23ac15d251f1cfeb8541101b1ed52c",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-09 13:37:15):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "2ea9dc5493771d7edf0241a4fbdfe280",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-15 18:39:58):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "e8c20aef3220d8795ab305c455a3fd54",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-06 15:07:24):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "0eed4463fd8131c18614531945bffebb",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-07 19:06:59):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "ce7dbfcaa1c66cd22fce59fcf58fba7d",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-14 15:37:12):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "2ff5a3ea97a2cab3d7f390686614641f",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-10 13:22:27):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "3251f455c84c5f223cbbf06c43d32843",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-12-01 14:26:02):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "72c010f4be09257c4300ca91812331fa",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-07 19:47:28):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "bfbae2fcc3caa48180c46273e1f3758a",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-07 13:09:33):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "be847930da1cf598fcb5c78fe993cd18",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-11-30 14:27:28):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "568dc28e3eb8fcdf1812fe7dbbc6d5a0",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-09 20:02:26):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "e407bbcf3400f6b91ea3ba63423c21f4",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-05 17:38:07):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "29c23439b366f069823c9d4ac9be868e",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-12-05 16:03:35):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "af207955229ce68d81bfe5a7c23cd000",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-06 16:27:14):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "a3435a9538e75c351b1bb1db7a4e400f",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-05-12 13:18:55):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "f54651dc2e9ab7582687ecfcf67b574e",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-06 17:22:04):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "426ebf859244d6f92abc6a1ffc368841",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-05 14:26:14):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "7297ea7056b94f1706dbf4a44cf98d56",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-10 18:03:27):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "5cfb1a6d101215162f4e228882bfeb67",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-12-05 16:44:30):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "0d3a7e9264a24312c1b7d06e641384b3",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-09-26 19:50:02):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "4d11ada83d87e2bab8a52e095a8152e1",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-05-05 14:24:41):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "6d3c0b41a3ecb6fd57415221b19871de",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-12-07 14:10:59):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "57635db044cc06b42b93ab762b1a8ecc",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-09 19:09:16):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "a2099fa00ba824874d32d6e12a5a485a",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-09 14:17:47):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "82cac074c005649a891bc1abe1a2daee",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-12-01 14:18:55):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "e3e5e566d5ed148e458e10695181de1f",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-12-07 14:04:43):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "1bb45a54dad1232ca1affa4f43dd5ad4",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-09-27 13:15:22):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "fc19c9b6fbede2b812d655992dce21c9",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-12-01 14:29:02):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "a7410980356f502891b885c39e8d089f",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-06 15:15:18):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "098731670b40e4df696837bff12a6f3b",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-11-30 17:11:47):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "6fe8e3323893ccef740ddd3916362173",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-05-03 15:52:35):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "004c88dc1bc82ffb0f60442d3473bb83",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-09 18:16:24):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "98d435422bfd481a47545ed5bd7add71",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-05-04 19:19:12):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "3e1e8bcbe167dee79cdd750813237b46",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-15 17:24:57):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "80458f64b3717534617b557ef5091934",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-05-05 17:00:48):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "9a6c34d36b44bed540e5693be643bda3",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-09-05 22:24:53):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "58a4fb43df5db5bc4d75869b777b84f3",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-13 16:55:52):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "f1e76ba773aac964b1354680d5133272",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-09-26 14:16:59):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "de00c58d609b7f414dbda6a04ee7c6a1",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-08 15:25:00):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "063066ae85521e3ab27919f13bf0bd79",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-09 15:20:13):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "7e89ec9365e6446655263fbee47d8f51",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-05-30 20:17:58):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "2dbb69244f560abce733d2632485f06b",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-09-13 18:30:30):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "1a14953b321132eda5020525549093e5",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-13 19:17:36):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "352bc34b0eb8a26434e35a7cbc51fd3f",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-01-04 18:59:53):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "40ba05b01e0b13941379db32cd7a0b5a",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-05-01 18:27:38):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "40ee7fcec92b7521fc39309f80de3315",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-05-12 20:10:21):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "ebe9832fb0d41daa2475761f2bb860af",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-07 20:52:19):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "837defdf175c74b95b7571ebaa457c3d",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-10-10 17:03:30):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "f886dfded2d2eabab38fa03eaaf5ba9e",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-07 13:25:58):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "85f1a346ed411b9181b47541e85c9ea7",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-12-09 16:02:43):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "6f23ac15d251f1cfeb8541101b1ed52c",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-09 17:28:05):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "2ea9dc5493771d7edf0241a4fbdfe280",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-09-10 18:26:16):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "e8c20aef3220d8795ab305c455a3fd54",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-20 17:01:29):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "0eed4463fd8131c18614531945bffebb",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-21 15:10:26):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "ce7dbfcaa1c66cd22fce59fcf58fba7d",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-09-27 16:38:39):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "2ff5a3ea97a2cab3d7f390686614641f",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-11 18:56:56):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "3251f455c84c5f223cbbf06c43d32843",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-12-07 14:12:21):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "72c010f4be09257c4300ca91812331fa",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-07 20:45:55):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "bfbae2fcc3caa48180c46273e1f3758a",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-09 13:59:12):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "be847930da1cf598fcb5c78fe993cd18",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-12-06 14:33:28):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "568dc28e3eb8fcdf1812fe7dbbc6d5a0",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-05 16:33:02):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "e407bbcf3400f6b91ea3ba63423c21f4",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-05-03 13:08:16):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "29c23439b366f069823c9d4ac9be868e",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-12-05 18:04:57):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "af207955229ce68d81bfe5a7c23cd000",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-06 17:33:06):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "a3435a9538e75c351b1bb1db7a4e400f",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-05-04 13:36:41):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "f54651dc2e9ab7582687ecfcf67b574e",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-06 18:30:17):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "426ebf859244d6f92abc6a1ffc368841",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-09 14:11:27):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "7297ea7056b94f1706dbf4a44cf98d56",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-12 16:12:27):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "5cfb1a6d101215162f4e228882bfeb67",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-12-05 15:35:30):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "0d3a7e9264a24312c1b7d06e641384b3",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-10-03 18:47:17):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "4d11ada83d87e2bab8a52e095a8152e1",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-05-05 14:39:39):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "6d3c0b41a3ecb6fd57415221b19871de",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-12-07 16:28:32):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "57635db044cc06b42b93ab762b1a8ecc",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-07 20:55:07):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "a2099fa00ba824874d32d6e12a5a485a",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-09 14:29:41):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "82cac074c005649a891bc1abe1a2daee",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-05-20 16:57:21):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "e3e5e566d5ed148e458e10695181de1f",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-09 13:32:21):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "1bb45a54dad1232ca1affa4f43dd5ad4",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-09 13:23:29):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "fc19c9b6fbede2b812d655992dce21c9",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-14 13:26:30):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "a7410980356f502891b885c39e8d089f",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-06 20:57:30):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "098731670b40e4df696837bff12a6f3b",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-05-08 13:10:21):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "6fe8e3323893ccef740ddd3916362173",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-05-24 17:20:30):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "004c88dc1bc82ffb0f60442d3473bb83",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-05 15:02:43):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "98d435422bfd481a47545ed5bd7add71",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-05-03 14:17:41):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "3e1e8bcbe167dee79cdd750813237b46",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-23 17:13:58):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "80458f64b3717534617b557ef5091934",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-13 18:53:15):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "9a6c34d36b44bed540e5693be643bda3",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-03 19:56:36):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "58a4fb43df5db5bc4d75869b777b84f3",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-16 16:29:56):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "f1e76ba773aac964b1354680d5133272",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-10-04 16:13:17):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "de00c58d609b7f414dbda6a04ee7c6a1",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-05-12 13:58:21):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "063066ae85521e3ab27919f13bf0bd79",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-13 15:35:15):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "7e89ec9365e6446655263fbee47d8f51",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-15 18:54:13):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "2dbb69244f560abce733d2632485f06b",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-10-04 19:12:10):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "1a14953b321132eda5020525549093e5",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-08 17:42:21):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "352bc34b0eb8a26434e35a7cbc51fd3f",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-05-09 17:27:48):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "40ba05b01e0b13941379db32cd7a0b5a",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-15 15:20:35):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "40ee7fcec92b7521fc39309f80de3315",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-09 20:52:37):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "ebe9832fb0d41daa2475761f2bb860af",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-21 15:59:55):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "837defdf175c74b95b7571ebaa457c3d",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-10-13 19:13:08):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "f886dfded2d2eabab38fa03eaaf5ba9e",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-08 16:26:53):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "85f1a346ed411b9181b47541e85c9ea7",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-05-12 17:57:55):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "6f23ac15d251f1cfeb8541101b1ed52c",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-14 14:32:58):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "2ea9dc5493771d7edf0241a4fbdfe280",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-09 18:55:17):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "e8c20aef3220d8795ab305c455a3fd54",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-17 18:59:52):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "0eed4463fd8131c18614531945bffebb",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-10-06 14:19:19):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "ce7dbfcaa1c66cd22fce59fcf58fba7d",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-13 18:48:56):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "2ff5a3ea97a2cab3d7f390686614641f",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-14 13:28:31):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "3251f455c84c5f223cbbf06c43d32843",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-12-08 16:28:25):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "72c010f4be09257c4300ca91812331fa",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-07 20:10:35):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "bfbae2fcc3caa48180c46273e1f3758a",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-14 13:44:55):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "be847930da1cf598fcb5c78fe993cd18",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-11-30 14:24:36):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "568dc28e3eb8fcdf1812fe7dbbc6d5a0",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-05 16:17:27):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "e407bbcf3400f6b91ea3ba63423c21f4",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-06 17:29:02):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "29c23439b366f069823c9d4ac9be868e",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-29 15:20:04):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "af207955229ce68d81bfe5a7c23cd000",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-06 14:43:57):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "a3435a9538e75c351b1bb1db7a4e400f",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-05-20 13:16:40):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "f54651dc2e9ab7582687ecfcf67b574e",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-06 16:22:39):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "426ebf859244d6f92abc6a1ffc368841",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-05 14:38:32):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "7297ea7056b94f1706dbf4a44cf98d56",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-07 18:53:57):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "5cfb1a6d101215162f4e228882bfeb67",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-11 13:13:55):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "0d3a7e9264a24312c1b7d06e641384b3",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-11-01 19:45:47):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "4d11ada83d87e2bab8a52e095a8152e1",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-05-06 14:06:17):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "6d3c0b41a3ecb6fd57415221b19871de",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-12-05 16:35:43):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "57635db044cc06b42b93ab762b1a8ecc",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-07 14:14:39):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "a2099fa00ba824874d32d6e12a5a485a",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-09 14:16:32):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "82cac074c005649a891bc1abe1a2daee",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-05-06 16:38:55):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "e3e5e566d5ed148e458e10695181de1f",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-14 13:15:13):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "1bb45a54dad1232ca1affa4f43dd5ad4",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-02-09 19:41:14):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "fc19c9b6fbede2b812d655992dce21c9",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-12-03 14:26:30):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "a7410980356f502891b885c39e8d089f",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-05 18:34:47):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|><|endoftext|>",
+    "098731670b40e4df696837bff12a6f3b",
+    "twodice"
+  ],
+  [
+    "twodice<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-11-30 19:06:07):\nonedice = ->\n  random [1..6]\ntwodice = ->\n  onedice() + onedice()\nfor [1..5]\n  write twodice()<|endoftext|>",
+    "6fe8e3323893ccef740ddd3916362173",
+    "twodice"
+  ]
+]

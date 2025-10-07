@@ -1,0 +1,1252 @@
+[
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-12-11 17:14:15):\nspeed 20\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50\n  ht()<|endoftext|>",
+    "2b9c75bf1845cf57503ea7d990ddb622",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-01-16 22:30:57):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "2c0774a2f27ff6823c554869f6fa195f",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-18 17:43:21):\nspeed 100\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "aa9dd45210185cfb8a6934341b452094",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-10-07 15:03:04):\nspeed 10\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "3514eaf699c10ce553bf7a2934161db2",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-04-17 20:04:35):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "5a0107aa47ca1a3a0a18997aab05be94",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-03-13 04:15:17):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "a9aaba539f2ed0d03d92d1652df105b3",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-01-05 17:06:37):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "4d5e1ae5041f6db69582fb4c3658a723",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-05-18 18:15:15):\nspeed 100\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "cfd3ab630aaa4c1d6cc374714d191495",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-14 15:35:33):\nspeed 10\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "40ee7fcec92b7521fc39309f80de3315",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-11-15 14:14:58):\nspeed 10\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "ca433de2df216ca576f97cef1e113622",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-08-28 16:29:27):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "2296f46509f8297df58ad0fc0e98fb9b",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-05-14 16:12:03):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "98d435422bfd481a47545ed5bd7add71",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-03-04 18:17:22):\nspeed 10000\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "3958662be0a10cba82c6f5a05b0c6930",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-04-28 14:55:32):\nspeed 20\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "f5e787113ddc6cc5a43dd80e6be0f222",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-03-10 14:19:34):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "580ee4986d709c4bb335264da76a80ea",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-03-27 12:43:30):\nspeed 10\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50\nfill blue<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "cb27a2bc018d76e57afb70b582b4b695",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-05-26 15:15:07):\nspeed 50\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "0aa9601b89f4b442da47653e4dae4af7",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-03-30 01:04:08):\nspeed Infinity\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "e2e85823df595d62aea10e0e6dec80c6",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-03-25 18:01:17):\nspeed Infinity\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "61290bae06e6682a988d54c0cd88eb65",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-10-30 02:56:30):\nspeed 10\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "b9d3a8d07468a156654ae32f966d3640",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-10-27 12:59:39):\nspeed Infinity\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "5a0d0051b1c6263282d20f4f539dde07",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-04-04 13:34:24):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "99064b64e60324f9fb7cd8918c488cf5",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-09 01:32:55):\nspeed 20\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "1aa65c190cdd032539f55e60d7321f1d",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-10 17:54:24):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "60791db51f5bcc2cf0b06cd325d863f3",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-02-20 20:24:16):\nspeed 100\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "9fb1c1e9fd91ece6335245204fbc8a37",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-11-13 15:19:59):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "1f51d0e80b479c04ecb85bcd83ad3a96",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-18 13:31:39):\npen turquoise \nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "9d98a2d72e06f3b912901387e709f995",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-11-18 17:57:58):\nspeed 100\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "fe94ac308fa5cc62426a592d86a899c4",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-11-19 17:31:15):\nspeed 100\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "c7e2bd95ae315dd17f179de8dd0ef3b6",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-04-03 14:43:58):\nspeed 100\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "f3955781474655c8a489e825bc54423a",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-04-26 13:56:27):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "d89ef011b21cb2cd841471b0cc79ccef",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-04-13 16:53:54):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "54ba2f91697d3394f22b652761ce739d",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2024-02-02 21:21:20):\nspeed 100\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "6ae0b4a39ccdd406018d44b002e909e8",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-09-21 17:42:47):\nspeed 15\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50\nht()<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "b833f372abbae020319f2f5a2ab32121",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-05-03 13:15:07):\nspeed 100\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "7ec84583066cd82a027ca60e0cb76b8e",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-09-15 00:38:13):\nspeed 10\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "55e5f33dd53927eaa1371a64bf62bae0",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-03-14 19:37:59):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "7e1a0225be3e5ef98e652b31d7e7db2b",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-04-01 08:20:37):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "1ffc9a3829a739ba69880725e941bc9d",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-04 14:50:21):\nspeed 10\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "ac1b7342872be6475b04990d58729aab",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-08-29 14:20:27):\nspeed 100\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "f008a90eaa35adac90a32cdaed9fe2ae",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-02 14:06:22):\nspeed 10\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "04d152ba883afc1afa79157bd092e260",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-04-25 15:04:16):\nspeed 50\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "9c2463d03d562a33c415b67dd1d91397",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-12-14 15:56:22):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "39cf2c8d203cc9350ea4436bcec3771a",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-08-29 16:14:06):\npen turquoise \nfor [1..10]\n  dot blue \n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "31a982bad28501ee07d01001b75e3d75",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-08 16:11:20):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "01e59621e81031181b2900e8d2d37583",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-11-16 14:07:48):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "7b869856ea0c4929384681c2f77eef81",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-14 14:02:14):\nspeed 50\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "d71b4acb1b06def2bce9c26a19b3d959",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-16 17:05:08):\nspeed 50\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "cfbf8e700051c40b240ef990c976366f",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-07 15:33:17):\nspeed 100\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "9a41a6dc522ad3c9cc294660c52ea4d3",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-08 20:18:16):\nspeed 100\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "7bc0e1dd6a6551fa75777fe9ad33eca6",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-30 22:39:14):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "2b9c75bf1845cf57503ea7d990ddb622",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-01-31 16:34:59):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "2c0774a2f27ff6823c554869f6fa195f",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-03-06 15:06:14):\nspeed 100\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|>",
+    "aa9dd45210185cfb8a6934341b452094",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-15 01:55:52):\nspeed 90\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|>",
+    "3514eaf699c10ce553bf7a2934161db2",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-09-11 19:11:19):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "5a0107aa47ca1a3a0a18997aab05be94",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-11-09 15:33:51):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "a9aaba539f2ed0d03d92d1652df105b3",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-06-20 14:49:04):\nspeed 50\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|>",
+    "4d5e1ae5041f6db69582fb4c3658a723",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-04 23:22:51):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "cfd3ab630aaa4c1d6cc374714d191495",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-09-14 18:16:16):\nspeed 50\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|>",
+    "40ee7fcec92b7521fc39309f80de3315",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-10-15 14:55:29):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "ca433de2df216ca576f97cef1e113622",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-12-05 18:02:35):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "2296f46509f8297df58ad0fc0e98fb9b",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-05-18 18:24:24):\nspeed 10\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|>",
+    "98d435422bfd481a47545ed5bd7add71",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-09-21 17:53:22):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "3958662be0a10cba82c6f5a05b0c6930",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-01-17 20:39:17):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "f5e787113ddc6cc5a43dd80e6be0f222",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-24 15:25:39):\nspeed Infinity\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|>",
+    "580ee4986d709c4bb335264da76a80ea",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-03-15 20:23:52):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "cb27a2bc018d76e57afb70b582b4b695",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-04-18 18:14:53):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "0aa9601b89f4b442da47653e4dae4af7",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-05-08 20:40:02):\nspeed 100\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|>",
+    "e2e85823df595d62aea10e0e6dec80c6",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-08-21 02:01:14):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "61290bae06e6682a988d54c0cd88eb65",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-02-28 16:11:21):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "b9d3a8d07468a156654ae32f966d3640",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-09-15 12:48:54):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "5a0d0051b1c6263282d20f4f539dde07",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-11-19 04:36:27):\nspeed Infinity\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|>",
+    "99064b64e60324f9fb7cd8918c488cf5",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-15 20:08:23):\nspeed 10\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|>",
+    "1aa65c190cdd032539f55e60d7321f1d",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-03-28 23:46:18):\nspeed 20\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|>",
+    "60791db51f5bcc2cf0b06cd325d863f3",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-03-06 04:22:16):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "9fb1c1e9fd91ece6335245204fbc8a37",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-11-13 15:12:25):\nspeed 100\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "1f51d0e80b479c04ecb85bcd83ad3a96",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-17 19:04:06):\nspeed 100\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "9d98a2d72e06f3b912901387e709f995",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-16 15:06:36):\nspeed 20\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "fe94ac308fa5cc62426a592d86a899c4",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-11-13 16:22:29):\nspeed 10\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "c7e2bd95ae315dd17f179de8dd0ef3b6",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-12-14 14:20:09):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "f3955781474655c8a489e825bc54423a",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-04-23 14:41:38):\nspeed 10\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "d89ef011b21cb2cd841471b0cc79ccef",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-04-21 16:34:22):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "54ba2f91697d3394f22b652761ce739d",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-10-17 14:09:58):\nspeed 100\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|>",
+    "6ae0b4a39ccdd406018d44b002e909e8",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-02-23 16:57:18):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "b833f372abbae020319f2f5a2ab32121",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-04-21 16:22:58):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "7ec84583066cd82a027ca60e0cb76b8e",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-09-27 16:05:43):\nspeed 30\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|>",
+    "55e5f33dd53927eaa1371a64bf62bae0",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-03-13 22:33:37):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "7e1a0225be3e5ef98e652b31d7e7db2b",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-19 08:39:22):\nspeed 100\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|>",
+    "1ffc9a3829a739ba69880725e941bc9d",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-12-04 16:03:24):\nspeed 50\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|>",
+    "ac1b7342872be6475b04990d58729aab",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-08-29 15:07:57):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "f008a90eaa35adac90a32cdaed9fe2ae",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-09-19 14:14:26):\nspeed 10\npen purple, 10\nfor [1..10]\n  dot green, 50\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|>",
+    "04d152ba883afc1afa79157bd092e260",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-04-22 15:21:36):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "9c2463d03d562a33c415b67dd1d91397",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-12-09 19:52:29):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "39cf2c8d203cc9350ea4436bcec3771a",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-08 14:16:19):\nspeed 50\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "31a982bad28501ee07d01001b75e3d75",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-05 19:24:26):\nspeed 20\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "01e59621e81031181b2900e8d2d37583",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-11-16 19:04:43):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "7b869856ea0c4929384681c2f77eef81",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-14 13:47:10):\nspeed 10\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "d71b4acb1b06def2bce9c26a19b3d959",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-12-05 20:05:14):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "cfbf8e700051c40b240ef990c976366f",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-17 13:14:25):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "9a41a6dc522ad3c9cc294660c52ea4d3",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-04 13:35:05):\nspeed 50\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "7bc0e1dd6a6551fa75777fe9ad33eca6",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-10-28 15:08:21):\nspeed 20\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "2b9c75bf1845cf57503ea7d990ddb622",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-07-06 00:00:40):\nspeed 100\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "2c0774a2f27ff6823c554869f6fa195f",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-05-19 17:37:16):\nspeed 10\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "aa9dd45210185cfb8a6934341b452094",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-10-24 03:56:27):\nspeed Infinity\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "3514eaf699c10ce553bf7a2934161db2",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-11-18 14:26:29):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "5a0107aa47ca1a3a0a18997aab05be94",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-04-08 02:24:33):\nspeed 10\npen turquoise, 10\nfor y in [1...10]\n  dot blue\n  for x in [1...4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "a9aaba539f2ed0d03d92d1652df105b3",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-02-28 17:01:56):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "4d5e1ae5041f6db69582fb4c3658a723",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-10-31 17:36:43):\nspeed 20\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "cfd3ab630aaa4c1d6cc374714d191495",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-04-11 23:07:38):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "40ee7fcec92b7521fc39309f80de3315",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-09-14 16:21:57):\nspeed 100\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "ca433de2df216ca576f97cef1e113622",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-10-04 12:06:58):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "2296f46509f8297df58ad0fc0e98fb9b",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-02-07 14:56:55):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "98d435422bfd481a47545ed5bd7add71",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-02-27 21:36:58):\nspeed 50\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50\npu()\nfd 200\npen gold\nfor [1..5]\n  fd 100\n  rt 144\npu()\nfd 200\npen purple\nfor x in [50..1] by -1\n  rt 30, x<|endoftext|>",
+    "3958662be0a10cba82c6f5a05b0c6930",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-09-27 14:13:55):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "f5e787113ddc6cc5a43dd80e6be0f222",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-09-17 01:37:07):\nspeed 20\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "580ee4986d709c4bb335264da76a80ea",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-11-17 19:26:26):\nspeed 10000\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "cb27a2bc018d76e57afb70b582b4b695",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-12-08 18:08:52):\nspeed 100\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "0aa9601b89f4b442da47653e4dae4af7",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-18 20:33:37):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "e2e85823df595d62aea10e0e6dec80c6",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-09-19 20:54:36):\nspeed Infinity\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "61290bae06e6682a988d54c0cd88eb65",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-04 20:21:05):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "b9d3a8d07468a156654ae32f966d3640",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-02-21 18:37:39):\nspeed 10\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "5a0d0051b1c6263282d20f4f539dde07",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-20 13:16:16):\nspeed Infinity\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "99064b64e60324f9fb7cd8918c488cf5",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-12-04 22:33:47):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "1aa65c190cdd032539f55e60d7321f1d",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-05-01 18:02:04):\nspeed 10\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "60791db51f5bcc2cf0b06cd325d863f3",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-09-24 02:16:04):\nspeed 10\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "9fb1c1e9fd91ece6335245204fbc8a37",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-11-19 15:13:31):\nspeed 100\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "1f51d0e80b479c04ecb85bcd83ad3a96",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-17 19:42:59):\nspeed 10\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "9d98a2d72e06f3b912901387e709f995",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-07 15:33:21):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "fe94ac308fa5cc62426a592d86a899c4",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-03 19:06:27):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "c7e2bd95ae315dd17f179de8dd0ef3b6",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-05 19:26:08):\nspeed 10\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "f3955781474655c8a489e825bc54423a",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-05-11 13:19:14):\nspeed 10\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "d89ef011b21cb2cd841471b0cc79ccef",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-11-14 19:59:16):\nspeed 20\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "54ba2f91697d3394f22b652761ce739d",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-03-15 17:25:29):\nspeed Infinity\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "6ae0b4a39ccdd406018d44b002e909e8",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-09-22 17:57:36):\nspeed 10\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "b833f372abbae020319f2f5a2ab32121",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-05-03 13:12:19):\nspeed 1000\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "7ec84583066cd82a027ca60e0cb76b8e",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-03-30 14:21:07):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "55e5f33dd53927eaa1371a64bf62bae0",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-12-11 13:14:57):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "7e1a0225be3e5ef98e652b31d7e7db2b",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-12 10:27:43):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "1ffc9a3829a739ba69880725e941bc9d",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-18 14:23:35):\nspeed 5\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "ac1b7342872be6475b04990d58729aab",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-08-29 20:20:07):\nspeed 100\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "f008a90eaa35adac90a32cdaed9fe2ae",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-02-18 04:27:58):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "04d152ba883afc1afa79157bd092e260",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-02-23 15:06:39):\npen turquoise \nfor [1..10] \n  dot blue \n  for [1..4] \n    fd 50 \n    rt 90\n  lt 36 \n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "9c2463d03d562a33c415b67dd1d91397",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-12-06 14:09:16):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "39cf2c8d203cc9350ea4436bcec3771a",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-29 18:53:43):\nspeed 50\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "31a982bad28501ee07d01001b75e3d75",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-11 17:10:39):\nspeed 5\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "01e59621e81031181b2900e8d2d37583",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-11-16 14:13:13):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "7b869856ea0c4929384681c2f77eef81",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-13 14:15:12):\nspeed 100\npen turquoise \nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "d71b4acb1b06def2bce9c26a19b3d959",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-02-10 14:36:52):\nspeed 10\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "cfbf8e700051c40b240ef990c976366f",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-17 18:52:43):\nspeed 30\npen turquoise \nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "9a41a6dc522ad3c9cc294660c52ea4d3",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-17 17:50:42):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "7bc0e1dd6a6551fa75777fe9ad33eca6",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-11-08 19:35:23):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "2b9c75bf1845cf57503ea7d990ddb622",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-03-12 23:55:41):\nspeed 10\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|>",
+    "2c0774a2f27ff6823c554869f6fa195f",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-09-07 17:19:12):\nspeed 2\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "aa9dd45210185cfb8a6934341b452094",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-03-28 17:23:53):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "3514eaf699c10ce553bf7a2934161db2",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-09-12 22:35:21):\nspeed 10\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "5a0107aa47ca1a3a0a18997aab05be94",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-05-18 20:06:14):\nspeed 100\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|>",
+    "a9aaba539f2ed0d03d92d1652df105b3",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-07 19:59:13):\nspeed Infinity\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|>",
+    "4d5e1ae5041f6db69582fb4c3658a723",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-09-12 16:15:26):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "cfd3ab630aaa4c1d6cc374714d191495",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-09-25 22:24:47):\nspeed 20\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|>",
+    "40ee7fcec92b7521fc39309f80de3315",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-03-28 14:56:41):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "ca433de2df216ca576f97cef1e113622",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-08 18:16:17):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "2296f46509f8297df58ad0fc0e98fb9b",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-14 19:42:29):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "98d435422bfd481a47545ed5bd7add71",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-02-24 15:59:52):\nspeed 100\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|>",
+    "3958662be0a10cba82c6f5a05b0c6930",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-01-30 20:56:15):\nspeed 20\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "f5e787113ddc6cc5a43dd80e6be0f222",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-03-09 20:12:40):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "580ee4986d709c4bb335264da76a80ea",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-05 20:27:37):\nspeed 20\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "cb27a2bc018d76e57afb70b582b4b695",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-01-05 15:18:29):\nspeed 10\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "0aa9601b89f4b442da47653e4dae4af7",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-26 16:04:21):\nspeed 50\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "e2e85823df595d62aea10e0e6dec80c6",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-04 02:00:27):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "61290bae06e6682a988d54c0cd88eb65",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-04-14 19:47:17):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "b9d3a8d07468a156654ae32f966d3640",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-02-06 23:36:40):\nspeed 100\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|>",
+    "5a0d0051b1c6263282d20f4f539dde07",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-08-23 17:55:09):\nspeed 100\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|>",
+    "99064b64e60324f9fb7cd8918c488cf5",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-10-18 13:30:21):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "1aa65c190cdd032539f55e60d7321f1d",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-02-20 21:28:47):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "60791db51f5bcc2cf0b06cd325d863f3",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-11-11 02:12:15):\nspeed 20\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "9fb1c1e9fd91ece6335245204fbc8a37",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-11-20 15:04:29):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "1f51d0e80b479c04ecb85bcd83ad3a96",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-08 19:16:33):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "9d98a2d72e06f3b912901387e709f995",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-13 15:37:52):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "fe94ac308fa5cc62426a592d86a899c4",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-11-19 16:39:29):\nspeed 20\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "c7e2bd95ae315dd17f179de8dd0ef3b6",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-12-10 18:13:30):\nspeed 25\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "f3955781474655c8a489e825bc54423a",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-10-26 16:06:18):\nspeed 10\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|>",
+    "d89ef011b21cb2cd841471b0cc79ccef",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-04-22 13:30:52):\nspeed 10\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "54ba2f91697d3394f22b652761ce739d",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2024-05-16 15:32:47):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "6ae0b4a39ccdd406018d44b002e909e8",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-05-04 16:35:21):\nspeed 20\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "b833f372abbae020319f2f5a2ab32121",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-05-02 13:29:27):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "7ec84583066cd82a027ca60e0cb76b8e",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-01-09 18:01:59):\nspeed 100\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|>",
+    "55e5f33dd53927eaa1371a64bf62bae0",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-03-23 19:00:36):\nspeed 10\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|>",
+    "7e1a0225be3e5ef98e652b31d7e7db2b",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-01-14 09:24:02):\nspeed 10\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|>",
+    "1ffc9a3829a739ba69880725e941bc9d",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-09 19:59:21):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "ac1b7342872be6475b04990d58729aab",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-08-29 19:53:22):\nspeed 100\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "f008a90eaa35adac90a32cdaed9fe2ae",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-10-20 02:47:35):\nspeed 100\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "04d152ba883afc1afa79157bd092e260",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-05-03 19:15:25):\nspeed 100\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "9c2463d03d562a33c415b67dd1d91397",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-01-06 18:49:21):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "39cf2c8d203cc9350ea4436bcec3771a",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-08-29 19:04:53):\nspeed 100\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "31a982bad28501ee07d01001b75e3d75",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-05 17:48:58):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "01e59621e81031181b2900e8d2d37583",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-08 20:57:44):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "7b869856ea0c4929384681c2f77eef81",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-04-22 13:22:53):\nspeed 100\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "d71b4acb1b06def2bce9c26a19b3d959",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-10-23 01:08:57):\nspeed 1000\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "cfbf8e700051c40b240ef990c976366f",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-18 13:39:29):\nspeed 100\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "9a41a6dc522ad3c9cc294660c52ea4d3",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-08 15:22:41):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "7bc0e1dd6a6551fa75777fe9ad33eca6",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-09-28 12:42:05):\nspeed 30\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50\nht()<|endoftext|>",
+    "2b9c75bf1845cf57503ea7d990ddb622",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-09-15 15:07:36):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "2c0774a2f27ff6823c554869f6fa195f",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-04-24 18:58:56):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "aa9dd45210185cfb8a6934341b452094",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-11-22 15:09:59):\nspeed 15\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "3514eaf699c10ce553bf7a2934161db2",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-01-29 16:32:28):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "5a0107aa47ca1a3a0a18997aab05be94",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-03-03 18:07:32):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "a9aaba539f2ed0d03d92d1652df105b3",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-21 23:35:57):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "4d5e1ae5041f6db69582fb4c3658a723",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-08-21 14:34:47):\nspeed 100\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "cfd3ab630aaa4c1d6cc374714d191495",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-05-13 15:21:36):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "40ee7fcec92b7521fc39309f80de3315",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-09-25 16:55:53):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "ca433de2df216ca576f97cef1e113622",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-09-12 17:09:25):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "2296f46509f8297df58ad0fc0e98fb9b",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-10-25 19:57:05):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "98d435422bfd481a47545ed5bd7add71",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-16 15:09:42):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "3958662be0a10cba82c6f5a05b0c6930",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-10-28 23:55:58):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "f5e787113ddc6cc5a43dd80e6be0f222",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-10-22 14:11:56):\nspeed 15\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "580ee4986d709c4bb335264da76a80ea",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-02-28 19:47:35):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "cb27a2bc018d76e57afb70b582b4b695",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-04 16:39:27):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "0aa9601b89f4b442da47653e4dae4af7",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-05-13 14:19:37):\nspeed 20\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "e2e85823df595d62aea10e0e6dec80c6",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-10-11 15:21:02):\nspeed 10\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "61290bae06e6682a988d54c0cd88eb65",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-09-28 02:57:09):\nspeed 50\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "b9d3a8d07468a156654ae32f966d3640",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-09-01 00:26:47):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "5a0d0051b1c6263282d20f4f539dde07",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-09-27 13:54:19):\nspeed 25\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "99064b64e60324f9fb7cd8918c488cf5",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-27 04:11:04):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "1aa65c190cdd032539f55e60d7321f1d",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-11-16 19:17:36):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "60791db51f5bcc2cf0b06cd325d863f3",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-01-26 18:55:42):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "9fb1c1e9fd91ece6335245204fbc8a37",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-11-14 15:25:26):\nspeed 100\npen turquoise \nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "1f51d0e80b479c04ecb85bcd83ad3a96",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-17 15:39:27):\npen turquoise\nfor [1..10]\n   dot blue\n   for [1..4]\n     fd 50\n     rt 90\n   lt 36\n   bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "9d98a2d72e06f3b912901387e709f995",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-06 14:18:20):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "fe94ac308fa5cc62426a592d86a899c4",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-11-19 20:40:49):\nspeed 100\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "c7e2bd95ae315dd17f179de8dd0ef3b6",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-12-04 14:16:27):\nspeed 10\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "f3955781474655c8a489e825bc54423a",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-07 14:31:47):\nspeed 100\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "d89ef011b21cb2cd841471b0cc79ccef",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-11-14 15:26:52):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "54ba2f91697d3394f22b652761ce739d",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-03-08 02:35:22):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "6ae0b4a39ccdd406018d44b002e909e8",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-09-02 15:55:48):\nspeed 10\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "b833f372abbae020319f2f5a2ab32121",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-04-11 17:55:52):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "7ec84583066cd82a027ca60e0cb76b8e",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-10-26 18:09:42):\nspeed 10\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "55e5f33dd53927eaa1371a64bf62bae0",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-10-31 12:40:26):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "7e1a0225be3e5ef98e652b31d7e7db2b",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-15 07:33:42):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "1ffc9a3829a739ba69880725e941bc9d",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-11 13:34:30):\nspeed 10\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "ac1b7342872be6475b04990d58729aab",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-08-29 17:12:56):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "f008a90eaa35adac90a32cdaed9fe2ae",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-09-21 01:17:35):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "04d152ba883afc1afa79157bd092e260",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-04-26 14:06:22):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "9c2463d03d562a33c415b67dd1d91397",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-12-07 16:34:22):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "39cf2c8d203cc9350ea4436bcec3771a",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-08-29 19:00:54):\nspeed 100\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "31a982bad28501ee07d01001b75e3d75",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-04 19:07:41):\npen turquoise\nfor y in [1..10]\n  dot blue\n  for x in [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "01e59621e81031181b2900e8d2d37583",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-07 21:01:43):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "7b869856ea0c4929384681c2f77eef81",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-07 17:25:02):\nspeed 30\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "d71b4acb1b06def2bce9c26a19b3d959",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-12-04 19:39:25):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "cfbf8e700051c40b240ef990c976366f",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-17 17:54:53):\nspeed 10\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "9a41a6dc522ad3c9cc294660c52ea4d3",
+    "decoratednest"
+  ],
+  [
+    "decoratednest<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-18 15:41:17):\npen turquoise\nfor [1..10]\n  dot blue\n  for [1..4]\n    fd 50\n    rt 90\n  lt 36\n  bk 50<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "7bc0e1dd6a6551fa75777fe9ad33eca6",
+    "decoratednest"
+  ]
+]

@@ -6,20 +6,21 @@ Concretely, we release 50 traces for the "snowman" assignment from the ground tr
 
 Example Usage:
 
-### Calculate BLEU with respect to ground truth user rollouts
-
+### Calculate Self-BLEU (lower is more diverse) between generated samples for the lighthouse assigment
 ```
 >>> from src.metrics import *                                                                                                                                                                                                                                                                                                                                                              
 >>> all_tc = TraceCollection()                                                                                                                                                                                      
->>> all_tc.load_trace_collection_json("rollouts/all_snowman")                                                                                                                                                       
+>>> all_tc.load_trace_collection_json("rollouts/all_lighthouse")                                                                                                                                                       
 >>> last_tc = TraceCollection()                                                                            
->>> last_tc.load_trace_collection_json("rollouts/last_snowman")                                            
->>> user_tc = TraceCollection()                                                                            
->>> user_tc.load_trace_collection_json("rollouts/user_snowman")                                            
->>> all_tc.reference_bleu(user_tc)
-0.7180487441182128
->>> last_tc.reference_bleu(user_tc)                                                                        
-0.7266377850039696
+>>> last_tc.load_trace_collection_json("rollouts/last_lighthouse")                                            
+>>> synthetic_tc = TraceCollection()                                                                            
+>>> synthetic_tc.load_trace_collection_json("rollouts/synthetic_lighthouse")                                            
+>>> all_tc.self_bleu()
+[0.8885052066813054]
+>>> last_tc.self_bleu()                                                                        
+[0.9203706285246063]
+>>> synthetic_tc.self_bleu()                                                                        
+[0.9022969747700319]
 ```
 
 ### Printing the last state of a program

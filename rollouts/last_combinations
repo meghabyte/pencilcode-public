@@ -1,0 +1,1252 @@
+[
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-20 01:58:18):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "2c0774a2f27ff6823c554869f6fa195f",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-03-06 18:06:38):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "542fb93a6eeaa9fc858de9164719de6d",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-10 15:52:28):\nspeed Infinity\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "58a4fb43df5db5bc4d75869b777b84f3",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-30 22:02:09):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "cb27a2bc018d76e57afb70b582b4b695",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-09-09 00:11:20):\nspeed 10\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "a1cec1b426f45dc23987c4c3878e047f",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-01-06 18:56:32):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "1675847d62c9fe62d30d310542321688",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-10-22 22:53:38):\nspeed 10\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "78542decbedd501c3f2828ca8ba5859f",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-24 13:52:36):\nspeed 50\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "e2c987dc4d78be07f584694ce33dcce9",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-05-02 14:19:43):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "c35d9c06e2d58a669e3616d5d7b735e7",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-11 14:50:52):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "2dbb69244f560abce733d2632485f06b",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-20 15:11:23):\nspeed Infinity\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "4a9abe8e1549273c498f79486f07b36e",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2024-04-30 18:21:16):\nspeed 100\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|>",
+    "b5837b3d78ccbbc46bde89d466c31014",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-02-28 16:32:24):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "1f5da6de3c31eaac7008213023bf3d10",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-10-05 17:19:39):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "ff181481daa06070e63a169113efb27d",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-04-25 14:42:07):\nspeed Infinity\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "21348acf163a2f705b4a938842986454",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-03-20 14:34:20):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "eaba6eb34107aa015d4f8a3978f325a1",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-08-25 17:57:35):\nspeed 20\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "b1ec1e5fde92b8f96b2ed0e100f4ae4a",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-09-13 17:53:33):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "60791db51f5bcc2cf0b06cd325d863f3",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-11-30 18:47:54):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "3347fda878370839fd8b5c50b898fad2",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-09-14 12:37:53):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "f1d8f0efdc5631b49c9a5d8d2a7ac7f3",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-01-04 14:22:47):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "b99c9069fe579e62c2a5336b096c3c57",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-05 21:18:08):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "b9d3a8d07468a156654ae32f966d3640",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-12-04 01:42:43):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "b8709d61d1d68fc4b1815ad14203f08d",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-11-16 19:19:27):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "0aa9601b89f4b442da47653e4dae4af7",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-05-05 19:04:26):\nspeed 10\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|>",
+    "5a24d23908c4a463464a706c021b6eb5",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-16 17:10:19):\nspeed 10\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "6b41cbca85499a4459b8f64c0d0d403b",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-11-14 14:42:08):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "1c1627dc00674fe5c8b0f4b33304eb50",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-17 13:56:53):\nspeed 100\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "9a41a6dc522ad3c9cc294660c52ea4d3",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-09-29 13:34:19):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "ae2fbd76c4dcd8d7037037b61b1f4001",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-10 18:19:27):\nspeed 100\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "e9735aa73a050e76c6c9470668b69a42",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-09 16:52:26):\nspeed 10\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "92eeb9c2071e43d1b3304b1f444ca4d2",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-11-09 20:41:42):\nspeed 20\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|>",
+    "21c51c38f5cbb0198c2d351d2bde961a",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-11-15 15:04:04):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "5e0afe13c69c00cfa217ee961b33c730",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-04-19 13:07:50):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "1307e795ab62b54f9bc92e4e09b7fcd6",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-11-16 14:40:50):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "d0505256a9baab7ef0b0f35580f1c13d",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-11-13 19:15:38):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "5653be4c8afe359a2d60e3aa3ae9a519",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-03-28 18:26:22):\nspeed 10\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "afd1ec629ab9c67553b6ad72bcaf3bb9",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-07 13:21:32):\nspeed 10\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "43161d30aa143c5d0153c87e8a1c9c74",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-29 15:26:18):\nspeed 30\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "a92238732e4fd11652075ced15c8ebe1",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-07 19:08:55):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "bb00bb3dc46b8f0ba2f29f9870168886",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-04-26 14:17:25):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "5a469a5839931547c3f5913143638c8f",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-12-09 14:19:57):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "5f5d4a26fc23fd5fc0b54eb1d6c163d8",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-11-14 18:39:26):\nspeed 10\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "b03a6766b44fd2c84f4c7bf9cfac2ab5",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-08 19:59:52):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "b7909da9cfe96799f812343fd7327093",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-10-04 19:27:32):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "694928e3db2967484e8c94f25f66aae1",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-03 20:15:29):\nspeed Infinity\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "6772d9b393b683683cdc381b2f5364e3",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-07 13:20:53):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "25a8a907eee993edd89045bd044e072f",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-04-17 13:27:41):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "362a89c02332bc15c064b9cbda9f2133",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-07 14:06:08):\nspeed 10\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "4fd8639047ace52c83894b183b628afe",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-04-30 14:05:57):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "8d02cf03c43110f71f8be7d06e287c3b",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-10-23 00:57:21):\nspeed 10\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "2c0774a2f27ff6823c554869f6fa195f",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-11-22 14:32:23):\nspeed 20\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "542fb93a6eeaa9fc858de9164719de6d",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-04-18 23:32:53):\nspeed Infinity\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "58a4fb43df5db5bc4d75869b777b84f3",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-06 15:57:35):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "cb27a2bc018d76e57afb70b582b4b695",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-10-02 15:54:52):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "a1cec1b426f45dc23987c4c3878e047f",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-09-19 03:28:04):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "1675847d62c9fe62d30d310542321688",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-06 04:32:37):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "78542decbedd501c3f2828ca8ba5859f",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-02-10 08:40:38):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "e2c987dc4d78be07f584694ce33dcce9",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-12-03 19:23:39):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "c35d9c06e2d58a669e3616d5d7b735e7",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-11-14 20:08:10):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "2dbb69244f560abce733d2632485f06b",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-08 15:41:07):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "4a9abe8e1549273c498f79486f07b36e",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-12 14:18:04):\nspeed 10\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "b5837b3d78ccbbc46bde89d466c31014",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-10-18 19:27:58):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "1f5da6de3c31eaac7008213023bf3d10",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-09-06 17:20:53):\nspeed 1000\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "ff181481daa06070e63a169113efb27d",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-10-22 17:39:19):\nspeed 10\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "21348acf163a2f705b4a938842986454",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-02-22 14:25:36):\nspeed 15\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "eaba6eb34107aa015d4f8a3978f325a1",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-12-03 23:44:24):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "b1ec1e5fde92b8f96b2ed0e100f4ae4a",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-08 17:04:13):\nspeed 100\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "60791db51f5bcc2cf0b06cd325d863f3",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-12-07 00:21:16):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "3347fda878370839fd8b5c50b898fad2",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-02-02 13:26:39):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "f1d8f0efdc5631b49c9a5d8d2a7ac7f3",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-10-06 14:16:54):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "b99c9069fe579e62c2a5336b096c3c57",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-09-26 00:13:59):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "b9d3a8d07468a156654ae32f966d3640",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-11-13 16:08:53):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "b8709d61d1d68fc4b1815ad14203f08d",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-05-27 01:13:46):\nspeed 10\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "0aa9601b89f4b442da47653e4dae4af7",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-02-22 20:02:33):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "5a24d23908c4a463464a706c021b6eb5",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-11-19 16:26:36):\nspeed 100\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "6b41cbca85499a4459b8f64c0d0d403b",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-11-08 14:22:48):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "1c1627dc00674fe5c8b0f4b33304eb50",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-17 13:39:34):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "9a41a6dc522ad3c9cc294660c52ea4d3",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-09-14 20:01:42):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "ae2fbd76c4dcd8d7037037b61b1f4001",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-02 14:07:32):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "e9735aa73a050e76c6c9470668b69a42",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-03-08 15:28:56):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "92eeb9c2071e43d1b3304b1f444ca4d2",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-10-03 18:09:33):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "21c51c38f5cbb0198c2d351d2bde961a",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-11-14 19:55:47):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "5e0afe13c69c00cfa217ee961b33c730",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-04-13 13:18:14):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "1307e795ab62b54f9bc92e4e09b7fcd6",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-11-15 20:15:43):\nspeed 10\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|>",
+    "d0505256a9baab7ef0b0f35580f1c13d",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-11-13 18:37:33):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "5653be4c8afe359a2d60e3aa3ae9a519",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-09-26 00:07:43):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "afd1ec629ab9c67553b6ad72bcaf3bb9",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-18 18:01:55):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "43161d30aa143c5d0153c87e8a1c9c74",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-16 19:43:54):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "a92238732e4fd11652075ced15c8ebe1",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-11-16 14:05:17):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "bb00bb3dc46b8f0ba2f29f9870168886",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-04 19:16:26):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "5a469a5839931547c3f5913143638c8f",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-13 16:38:20):\nspeed 30\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "5f5d4a26fc23fd5fc0b54eb1d6c163d8",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-26 15:34:09):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "b03a6766b44fd2c84f4c7bf9cfac2ab5",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-09-29 12:32:28):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "b7909da9cfe96799f812343fd7327093",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-11-13 23:06:17):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "694928e3db2967484e8c94f25f66aae1",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-12-04 15:07:29):\nspeed 10\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "6772d9b393b683683cdc381b2f5364e3",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-17 15:36:07):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "25a8a907eee993edd89045bd044e072f",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-04-04 19:15:37):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "362a89c02332bc15c064b9cbda9f2133",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-06 15:35:14):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "4fd8639047ace52c83894b183b628afe",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-09-02 20:05:09):\nspeed 20\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|>",
+    "8d02cf03c43110f71f8be7d06e287c3b",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-09-20 22:09:17):\nspeed 10\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|>",
+    "2c0774a2f27ff6823c554869f6fa195f",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-02-27 19:28:52):\nspeed 100\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|>",
+    "542fb93a6eeaa9fc858de9164719de6d",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-02-13 18:27:29):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "58a4fb43df5db5bc4d75869b777b84f3",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-02-21 18:12:59):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "cb27a2bc018d76e57afb70b582b4b695",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-18 19:17:25):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "a1cec1b426f45dc23987c4c3878e047f",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-09-17 23:06:17):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "1675847d62c9fe62d30d310542321688",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-02-18 19:29:25):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "78542decbedd501c3f2828ca8ba5859f",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-02-24 13:46:54):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "e2c987dc4d78be07f584694ce33dcce9",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-02-06 18:20:33):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "c35d9c06e2d58a669e3616d5d7b735e7",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-10-26 21:36:21):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "2dbb69244f560abce733d2632485f06b",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-03 19:08:32):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "4a9abe8e1549273c498f79486f07b36e",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-03-06 14:26:35):\nspeed 100\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|>",
+    "b5837b3d78ccbbc46bde89d466c31014",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-03-01 19:41:33):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "1f5da6de3c31eaac7008213023bf3d10",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-18 18:20:02):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "ff181481daa06070e63a169113efb27d",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-13 18:43:36):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "21348acf163a2f705b4a938842986454",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-09-25 16:08:21):\nspeed 15\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|>",
+    "eaba6eb34107aa015d4f8a3978f325a1",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-18 11:25:02):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "b1ec1e5fde92b8f96b2ed0e100f4ae4a",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-11 00:49:24):\nspeed 10\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|>",
+    "60791db51f5bcc2cf0b06cd325d863f3",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-02-23 08:28:55):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "3347fda878370839fd8b5c50b898fad2",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-14 13:40:32):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "f1d8f0efdc5631b49c9a5d8d2a7ac7f3",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-12 10:11:36):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "b99c9069fe579e62c2a5336b096c3c57",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-14 03:05:28):\nspeed 50\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|>",
+    "b9d3a8d07468a156654ae32f966d3640",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-10-08 18:04:13):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "b8709d61d1d68fc4b1815ad14203f08d",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-03-05 20:11:14):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "0aa9601b89f4b442da47653e4dae4af7",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-10-01 19:08:08):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "5a24d23908c4a463464a706c021b6eb5",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-04-24 15:32:54):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "6b41cbca85499a4459b8f64c0d0d403b",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-11-08 19:00:08):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "1c1627dc00674fe5c8b0f4b33304eb50",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-07 16:20:41):\nspeed 50\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|>",
+    "9a41a6dc522ad3c9cc294660c52ea4d3",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-09-20 20:03:36):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "ae2fbd76c4dcd8d7037037b61b1f4001",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-06 19:21:53):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "e9735aa73a050e76c6c9470668b69a42",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-17 12:59:05):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "92eeb9c2071e43d1b3304b1f444ca4d2",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-10-30 18:48:22):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "21c51c38f5cbb0198c2d351d2bde961a",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-11-15 16:26:53):\nfor outside in [skyblue, violet, pink]\n   for inside in [palegreen, orange, red]\n     dot outside, 21\n     dot inside, 7\n     fd 25\n     rt 36<|endoftext|>",
+    "5e0afe13c69c00cfa217ee961b33c730",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-04-21 13:40:40):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "1307e795ab62b54f9bc92e4e09b7fcd6",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-05-05 18:57:40):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "d0505256a9baab7ef0b0f35580f1c13d",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-11-19 19:12:29):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "5653be4c8afe359a2d60e3aa3ae9a519",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-23 04:10:05):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "afd1ec629ab9c67553b6ad72bcaf3bb9",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-04-22 14:33:48):\nspeed 20\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|>",
+    "43161d30aa143c5d0153c87e8a1c9c74",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-12-03 15:04:21):\nspeed 100\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|>",
+    "a92238732e4fd11652075ced15c8ebe1",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-06 19:14:07):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "bb00bb3dc46b8f0ba2f29f9870168886",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-04-24 19:16:22):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "5a469a5839931547c3f5913143638c8f",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-04-11 15:14:18):\nspeed 10\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "5f5d4a26fc23fd5fc0b54eb1d6c163d8",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-11-15 18:34:06):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "b03a6766b44fd2c84f4c7bf9cfac2ab5",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-01-11 17:36:53):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "b7909da9cfe96799f812343fd7327093",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-02 16:11:42):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "694928e3db2967484e8c94f25f66aae1",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-04 19:11:40):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "6772d9b393b683683cdc381b2f5364e3",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-04-22 14:17:59):\nspeed 100\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|>",
+    "25a8a907eee993edd89045bd044e072f",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-11-16 20:00:43):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "362a89c02332bc15c064b9cbda9f2133",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-04-03 16:02:05):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "4fd8639047ace52c83894b183b628afe",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-05-12 15:09:06):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "8d02cf03c43110f71f8be7d06e287c3b",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-06-06 12:25:20):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "2c0774a2f27ff6823c554869f6fa195f",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-09-29 16:51:58):\nspeed 10\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|>",
+    "542fb93a6eeaa9fc858de9164719de6d",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-11-15 03:22:14):\nspeed 10\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|>",
+    "58a4fb43df5db5bc4d75869b777b84f3",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-10-03 16:19:38):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "cb27a2bc018d76e57afb70b582b4b695",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-10-01 20:00:13):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "a1cec1b426f45dc23987c4c3878e047f",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-10 14:37:12):\nspeed 10\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "1675847d62c9fe62d30d310542321688",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-03-06 16:29:23):\nspeed Infinity\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "78542decbedd501c3f2828ca8ba5859f",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-10-22 15:30:16):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "e2c987dc4d78be07f584694ce33dcce9",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-09-10 03:02:30):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "c35d9c06e2d58a669e3616d5d7b735e7",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-02 17:58:07):\nspeed 10\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "2dbb69244f560abce733d2632485f06b",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-06 20:08:42):\nspeed 10\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "4a9abe8e1549273c498f79486f07b36e",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-21 11:30:29):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "b5837b3d78ccbbc46bde89d466c31014",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-03-11 15:36:39):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "1f5da6de3c31eaac7008213023bf3d10",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-03-26 18:41:54):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "ff181481daa06070e63a169113efb27d",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-02 18:21:46):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "21348acf163a2f705b4a938842986454",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-02-13 17:52:24):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "eaba6eb34107aa015d4f8a3978f325a1",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-01-10 19:00:37):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "b1ec1e5fde92b8f96b2ed0e100f4ae4a",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-05-20 16:27:41):\nspeed 10\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|>",
+    "60791db51f5bcc2cf0b06cd325d863f3",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-02-28 17:47:17):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "3347fda878370839fd8b5c50b898fad2",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-09 17:09:04):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "f1d8f0efdc5631b49c9a5d8d2a7ac7f3",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-07 11:55:22):\nspeed 1000\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "b99c9069fe579e62c2a5336b096c3c57",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-02-26 15:52:30):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "b9d3a8d07468a156654ae32f966d3640",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-03-06 17:43:05):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "b8709d61d1d68fc4b1815ad14203f08d",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-04-21 15:17:27):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "0aa9601b89f4b442da47653e4dae4af7",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-03-28 16:57:39):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "5a24d23908c4a463464a706c021b6eb5",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-11-20 19:19:04):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "6b41cbca85499a4459b8f64c0d0d403b",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-11-09 19:47:12):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "1c1627dc00674fe5c8b0f4b33304eb50",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-18 13:59:06):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "9a41a6dc522ad3c9cc294660c52ea4d3",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-08-31 17:20:20):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "ae2fbd76c4dcd8d7037037b61b1f4001",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-02 17:20:05):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "e9735aa73a050e76c6c9470668b69a42",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-09-13 17:18:25):\nspeed 10\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "92eeb9c2071e43d1b3304b1f444ca4d2",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-12-14 16:06:42):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "21c51c38f5cbb0198c2d351d2bde961a",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-11-15 20:10:33):\nspeed 10\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "5e0afe13c69c00cfa217ee961b33c730",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-05-03 13:17:29):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "1307e795ab62b54f9bc92e4e09b7fcd6",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-11-16 20:55:53):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "d0505256a9baab7ef0b0f35580f1c13d",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-11-20 18:58:21):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "5653be4c8afe359a2d60e3aa3ae9a519",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-01-13 20:27:40):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "afd1ec629ab9c67553b6ad72bcaf3bb9",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-18 13:53:28):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "43161d30aa143c5d0153c87e8a1c9c74",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-09 14:33:41):\nspeed 100\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "a92238732e4fd11652075ced15c8ebe1",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-11-16 19:58:12):\nspeed 100\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|>",
+    "bb00bb3dc46b8f0ba2f29f9870168886",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-06 14:29:20):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "5a469a5839931547c3f5913143638c8f",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-12-15 16:28:59):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "5f5d4a26fc23fd5fc0b54eb1d6c163d8",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-04 16:52:54):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "b03a6766b44fd2c84f4c7bf9cfac2ab5",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-10-03 19:59:25):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "b7909da9cfe96799f812343fd7327093",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-03-25 18:38:57):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "694928e3db2967484e8c94f25f66aae1",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-11-13 19:00:22):\nspeed 10\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "6772d9b393b683683cdc381b2f5364e3",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-09 13:17:37):\nspeed 100\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "25a8a907eee993edd89045bd044e072f",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-04-19 16:49:17):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "362a89c02332bc15c064b9cbda9f2133",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-06 19:13:12):\nspeed 10\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "4fd8639047ace52c83894b183b628afe",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-09-12 20:00:37):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "8d02cf03c43110f71f8be7d06e287c3b",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-11-27 23:19:35):\nspeed 100\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "2c0774a2f27ff6823c554869f6fa195f",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-10-07 13:18:21):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "542fb93a6eeaa9fc858de9164719de6d",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-02-24 14:20:41):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "58a4fb43df5db5bc4d75869b777b84f3",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-28 22:52:09):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "cb27a2bc018d76e57afb70b582b4b695",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-03-30 17:17:18):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "a1cec1b426f45dc23987c4c3878e047f",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-08-23 17:54:26):\nspeed 10\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "1675847d62c9fe62d30d310542321688",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-04-17 04:40:04):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "78542decbedd501c3f2828ca8ba5859f",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-04-04 14:34:16):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "e2c987dc4d78be07f584694ce33dcce9",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-03-08 04:00:33):\nspeed 1000\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "c35d9c06e2d58a669e3616d5d7b735e7",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-12-07 16:58:19):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "2dbb69244f560abce733d2632485f06b",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-14 13:34:56):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "4a9abe8e1549273c498f79486f07b36e",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-06 13:21:28):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "b5837b3d78ccbbc46bde89d466c31014",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-09-23 00:58:08):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "1f5da6de3c31eaac7008213023bf3d10",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-05-22 21:29:40):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "ff181481daa06070e63a169113efb27d",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-02-28 03:22:20):\nspeed Infinity\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "21348acf163a2f705b4a938842986454",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-10-25 01:39:13):\nspeed 50\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "eaba6eb34107aa015d4f8a3978f325a1",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-02-15 15:06:28):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "b1ec1e5fde92b8f96b2ed0e100f4ae4a",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-01 22:23:42):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "60791db51f5bcc2cf0b06cd325d863f3",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-10-17 16:12:53):\nspeed 10\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "3347fda878370839fd8b5c50b898fad2",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-25 14:32:23):\nspeed 10\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "f1d8f0efdc5631b49c9a5d8d2a7ac7f3",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-10-24 17:21:16):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "b99c9069fe579e62c2a5336b096c3c57",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-17 03:35:55):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "b9d3a8d07468a156654ae32f966d3640",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-09-26 02:05:02):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "b8709d61d1d68fc4b1815ad14203f08d",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-03-16 18:00:28):\nspeed 50\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|>",
+    "0aa9601b89f4b442da47653e4dae4af7",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-02-04 14:34:39):\nspeed 50\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "5a24d23908c4a463464a706c021b6eb5",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-11 18:37:17):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "6b41cbca85499a4459b8f64c0d0d403b",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-11-08 14:36:05):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "1c1627dc00674fe5c8b0f4b33304eb50",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-17 15:35:47):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "9a41a6dc522ad3c9cc294660c52ea4d3",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-09-08 15:12:33):\nspeed 50\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|>",
+    "ae2fbd76c4dcd8d7037037b61b1f4001",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-13 14:29:42):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "e9735aa73a050e76c6c9470668b69a42",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-10-23 18:02:14):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "92eeb9c2071e43d1b3304b1f444ca4d2",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-11-10 20:52:21):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "21c51c38f5cbb0198c2d351d2bde961a",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-02 16:34:55):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "5e0afe13c69c00cfa217ee961b33c730",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-04-21 13:28:51):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "1307e795ab62b54f9bc92e4e09b7fcd6",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-07 14:07:56):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "d0505256a9baab7ef0b0f35580f1c13d",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-11-13 18:56:06):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "5653be4c8afe359a2d60e3aa3ae9a519",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-05-08 17:58:37):\nspeed 50\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "afd1ec629ab9c67553b6ad72bcaf3bb9",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-11-09 15:13:06):\nspeed 10\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "43161d30aa143c5d0153c87e8a1c9c74",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-27 14:21:23):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "a92238732e4fd11652075ced15c8ebe1",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-02 14:15:06):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "bb00bb3dc46b8f0ba2f29f9870168886",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-02 15:09:21):\nspeed 10\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "5a469a5839931547c3f5913143638c8f",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-12-16 14:13:10):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "5f5d4a26fc23fd5fc0b54eb1d6c163d8",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-11-15 16:50:44):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "b03a6766b44fd2c84f4c7bf9cfac2ab5",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-09-20 01:21:24):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "b7909da9cfe96799f812343fd7327093",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-12 01:59:41):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "694928e3db2967484e8c94f25f66aae1",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-11-13 20:14:52):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "6772d9b393b683683cdc381b2f5364e3",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-02 14:15:05):\nspeed 10\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|>",
+    "25a8a907eee993edd89045bd044e072f",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-11-15 19:54:35):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "362a89c02332bc15c064b9cbda9f2133",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-04-29 16:29:14):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "4fd8639047ace52c83894b183b628afe",
+    "combinations"
+  ],
+  [
+    "combinations<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-05-10 15:30:51):\nfor outside in [skyblue, violet, pink]\n  for inside in [palegreen, orange, red]\n    dot outside, 21\n    dot inside, 7\n    fd 25\n    rt 36<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "8d02cf03c43110f71f8be7d06e287c3b",
+    "combinations"
+  ]
+]

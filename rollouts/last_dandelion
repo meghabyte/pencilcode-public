@@ -1,0 +1,1252 @@
+[
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-16 20:05:38):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "7d631c75e0798f5b4aa11d849944687b",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-01-06 18:25:17):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "e6c650a4be782d3f4b6f12350a4b3bda",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-11-10 03:53:29):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "f390a01c825feccba6250dfbae3aab9f",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-11-06 21:04:07):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "a9eca38f23f2e49f59a97d5b1eb6b4cc",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-01-22 21:40:36):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "8b79f246fa0108a2ab7ee6e4a31fa868",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-10-26 14:41:40):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "a18d0c8e562a29e32a68e6ec8ea67cc0",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-02-02 19:47:12):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "9cfda8ebe34121dab9f0ea3cfb3132b3",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-22 17:47:53):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "ca00ca12b4027eace40dc255979b6a8a",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-04-18 14:26:59):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "bcc798386c17be7bf52352c3f3708cc5",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-09-08 20:04:18):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "909df87045eec7c0739b0277caa19005",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-14 14:40:23):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "aa90a951176cf1272b9ab2d58cf72f87",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-08 16:37:42):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "0c05b6d2ee5eed867a718bd4a8e619af",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-11-30 02:20:53):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "767f796dcc007895deb7a26d70453229",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-01-12 15:20:54):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "c564401347ac3f7199c6d9c1ce4f2d0a",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-02-05 20:06:25):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "375b50abcc86adeaa2dfad770714424f",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-02-11 19:02:52):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "6b2361367b11f540942da940f81333f7",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-11-22 18:47:21):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "2c19edf8585add69940e944d27c4a07d",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-08-02 12:23:59):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "357006c242407d33e4479e985d060022",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-10-10 19:11:27):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "41b26f758f70f7deab3ec2784c7103d4",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-02-07 20:02:12):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "6ac0e0939adafd006d4e4849e9dec0e3",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-06-08 15:22:06):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "f2c04e3927d0f8b7a6b1781f83e61425",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-05-09 18:59:17):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "3958662be0a10cba82c6f5a05b0c6930",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-01-13 13:43:18):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "03f7d0c514f43cd89bdad700699c1c4e",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-01-08 16:24:41):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "01c55e09200e918094b10c1f497d77ab",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-11-16 20:38:24):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "50dbce5de33bc3c5bf712e51cfd2423b",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-12-08 15:09:37):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "f8207a0f738bc767b0e3d8234da82f70",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-07 19:44:27):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "3ba86c5a95759f29a0600b7fd6b481aa",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-09-25 23:53:17):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "9ab6d08645bf068651c6d07a5fa0e72f",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-01-19 14:53:16):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "94096b36e62d99bfabaa6a390c304d87",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-03-02 14:52:40):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "16b50cd7c76b512ab25ee0521f13a130",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-02-14 18:18:12):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "098f02667d910c9833e0e4d631155025",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-07-24 17:33:41):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "5f582547d3bfc76a8b9edb17e770e188",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-03-21 07:44:03):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "9917e60dd2fdf6e21c11ced0a6f4c564",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-03-27 22:21:27):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "02dd0f1f6a4b762385d085d186410ec8",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-09-27 15:18:16):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "984409cc52dc745c682a68998f6e5d6c",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-03-30 20:53:02):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "655f98326a877c3ffcee2e701a8dc506",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-05-11 18:50:59):\nspeed 10\npen green \nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|>",
+    "a88c7aa3587da7317340f6aa1a8ba00f",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2024-02-22 07:45:41):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "a52981dfc61515e229abdd53fff60c12",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-09-19 18:58:03):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "93178cab085dd16eecbb9caa27d953ff",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-12-10 15:35:53):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "539c0ceac166146bcdc3599ffb5ee711",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-11-15 03:38:15):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "523a53ec8b620915f96901bab2c3f735",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-07 17:24:55):\nspeed 20\npen green \nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "cc0fc53384e55ff02f2f13ee53958b51",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-06-06 05:16:19):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "78607700b28d41a8e78ad7fe80279224",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-02-19 22:34:09):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "e86f3e32f737dd140a5b8b024bd9b098",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-03 16:13:04):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "8905acdf7dee567eefa9c8c1dc4e04f1",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-04 16:07:27):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "3e364a2f4e1d7186b9ca271908ef8d6d",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-04-06 14:29:51):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "3dfb66e5622e87c560cac9b7f55832f7",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-12-06 16:37:57):\nspeed 10\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "fb5f11ecabb3966784139c81004b3044",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-07 16:28:23):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "219965343e0fbbc26f906802ac4058f1",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-02-13 01:31:57):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "1bc8e294338599aaa330254fa113f7cd",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-08-22 19:15:21):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "7d631c75e0798f5b4aa11d849944687b",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-11-03 14:26:56):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "e6c650a4be782d3f4b6f12350a4b3bda",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-05 15:26:32):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "f390a01c825feccba6250dfbae3aab9f",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-02-01 19:39:16):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "a9eca38f23f2e49f59a97d5b1eb6b4cc",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-11-02 11:09:14):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "8b79f246fa0108a2ab7ee6e4a31fa868",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-09-14 17:28:57):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "a18d0c8e562a29e32a68e6ec8ea67cc0",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-02-16 19:07:55):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "9cfda8ebe34121dab9f0ea3cfb3132b3",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-04-11 14:13:07):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "ca00ca12b4027eace40dc255979b6a8a",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-11-09 16:28:03):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "bcc798386c17be7bf52352c3f3708cc5",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-01-04 19:41:29):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|>",
+    "909df87045eec7c0739b0277caa19005",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-11-24 11:06:14):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|>",
+    "aa90a951176cf1272b9ab2d58cf72f87",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-26 19:24:58):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "0c05b6d2ee5eed867a718bd4a8e619af",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-11-05 01:38:22):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|>",
+    "767f796dcc007895deb7a26d70453229",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-09-12 21:08:30):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "c564401347ac3f7199c6d9c1ce4f2d0a",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-02-27 16:13:57):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "375b50abcc86adeaa2dfad770714424f",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-06-30 14:28:19):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|>",
+    "6b2361367b11f540942da940f81333f7",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-12 14:59:21):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "2c19edf8585add69940e944d27c4a07d",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-02-09 20:20:08):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "357006c242407d33e4479e985d060022",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-03 01:40:21):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "41b26f758f70f7deab3ec2784c7103d4",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-02-28 16:12:25):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "6ac0e0939adafd006d4e4849e9dec0e3",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-11-18 23:30:30):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "f2c04e3927d0f8b7a6b1781f83e61425",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-08-29 16:13:04):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "3958662be0a10cba82c6f5a05b0c6930",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-05-18 08:55:03):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|>",
+    "03f7d0c514f43cd89bdad700699c1c4e",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-05-22 15:30:21):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|>",
+    "01c55e09200e918094b10c1f497d77ab",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-10-25 21:10:10):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "50dbce5de33bc3c5bf712e51cfd2423b",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-12 15:56:51):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|>",
+    "f8207a0f738bc767b0e3d8234da82f70",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-12-06 17:17:21):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|>",
+    "3ba86c5a95759f29a0600b7fd6b481aa",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-08-18 22:16:28):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "9ab6d08645bf068651c6d07a5fa0e72f",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-02-15 20:03:26):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|>",
+    "94096b36e62d99bfabaa6a390c304d87",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-02-13 18:56:26):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "16b50cd7c76b512ab25ee0521f13a130",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-01-09 16:38:26):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "098f02667d910c9833e0e4d631155025",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2024-05-09 14:12:02):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|>",
+    "5f582547d3bfc76a8b9edb17e770e188",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-03-02 11:25:36):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|>",
+    "9917e60dd2fdf6e21c11ced0a6f4c564",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-02-13 15:27:58):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "02dd0f1f6a4b762385d085d186410ec8",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-02 08:20:32):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "984409cc52dc745c682a68998f6e5d6c",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-07-17 21:15:34):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "655f98326a877c3ffcee2e701a8dc506",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-07 15:18:16):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "a88c7aa3587da7317340f6aa1a8ba00f",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2024-02-13 11:55:23):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|>",
+    "a52981dfc61515e229abdd53fff60c12",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-05-15 19:38:23):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "93178cab085dd16eecbb9caa27d953ff",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-12-08 16:35:59):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|>",
+    "539c0ceac166146bcdc3599ffb5ee711",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-06-05 16:02:22):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "523a53ec8b620915f96901bab2c3f735",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-04 17:07:26):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "cc0fc53384e55ff02f2f13ee53958b51",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-03-17 09:34:55):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|>",
+    "78607700b28d41a8e78ad7fe80279224",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-06-01 04:55:17):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "e86f3e32f737dd140a5b8b024bd9b098",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-17 13:56:43):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "8905acdf7dee567eefa9c8c1dc4e04f1",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-14 15:35:16):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "3e364a2f4e1d7186b9ca271908ef8d6d",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-02-11 08:19:14):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|>",
+    "3dfb66e5622e87c560cac9b7f55832f7",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-04-10 17:16:22):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "fb5f11ecabb3966784139c81004b3044",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-06 13:26:16):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "219965343e0fbbc26f906802ac4058f1",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-10-26 16:09:21):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "1bc8e294338599aaa330254fa113f7cd",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-03-13 19:08:37):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "7d631c75e0798f5b4aa11d849944687b",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-02-21 20:52:55):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "e6c650a4be782d3f4b6f12350a4b3bda",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-12 16:35:27):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "f390a01c825feccba6250dfbae3aab9f",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-09-29 03:30:39):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "a9eca38f23f2e49f59a97d5b1eb6b4cc",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-09-28 17:04:40):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "8b79f246fa0108a2ab7ee6e4a31fa868",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-11 17:16:27):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "a18d0c8e562a29e32a68e6ec8ea67cc0",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-05-28 14:20:20):\nspeed 50\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "9cfda8ebe34121dab9f0ea3cfb3132b3",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-12-12 17:42:17):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "ca00ca12b4027eace40dc255979b6a8a",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-01-31 08:43:58):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "bcc798386c17be7bf52352c3f3708cc5",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-11-18 15:10:37):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "909df87045eec7c0739b0277caa19005",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-10-23 16:24:23):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "aa90a951176cf1272b9ab2d58cf72f87",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-12-15 14:47:26):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "0c05b6d2ee5eed867a718bd4a8e619af",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-11-06 20:14:23):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "767f796dcc007895deb7a26d70453229",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-08-06 13:38:56):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "c564401347ac3f7199c6d9c1ce4f2d0a",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-06-28 23:54:40):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "375b50abcc86adeaa2dfad770714424f",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-03-10 08:56:33):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "6b2361367b11f540942da940f81333f7",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-05-18 19:08:41):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "2c19edf8585add69940e944d27c4a07d",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-08 19:10:10):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "357006c242407d33e4479e985d060022",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-09-12 20:05:05):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "41b26f758f70f7deab3ec2784c7103d4",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-05-03 18:29:21):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "6ac0e0939adafd006d4e4849e9dec0e3",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-11-12 03:29:16):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "f2c04e3927d0f8b7a6b1781f83e61425",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-05-31 16:00:30):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "3958662be0a10cba82c6f5a05b0c6930",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-05-27 12:19:20):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "03f7d0c514f43cd89bdad700699c1c4e",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-08-30 18:47:07):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "01c55e09200e918094b10c1f497d77ab",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-09-11 19:52:21):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "50dbce5de33bc3c5bf712e51cfd2423b",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-08 16:30:22):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "f8207a0f738bc767b0e3d8234da82f70",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-11-30 14:18:59):\nspeed 20\npen green \nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|>",
+    "3ba86c5a95759f29a0600b7fd6b481aa",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-02-27 19:06:23):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "9ab6d08645bf068651c6d07a5fa0e72f",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-10-17 17:18:13):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "94096b36e62d99bfabaa6a390c304d87",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-01-25 18:52:31):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "16b50cd7c76b512ab25ee0521f13a130",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-02-08 17:04:19):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "098f02667d910c9833e0e4d631155025",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-05-18 02:38:21):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "5f582547d3bfc76a8b9edb17e770e188",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-02-06 10:56:32):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "9917e60dd2fdf6e21c11ced0a6f4c564",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-09-08 13:56:20):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "02dd0f1f6a4b762385d085d186410ec8",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-02-06 22:54:58):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "984409cc52dc745c682a68998f6e5d6c",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-02-11 16:41:52):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "655f98326a877c3ffcee2e701a8dc506",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-05-06 14:56:53):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "a88c7aa3587da7317340f6aa1a8ba00f",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-12-02 06:51:39):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "a52981dfc61515e229abdd53fff60c12",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-09-17 17:15:24):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "93178cab085dd16eecbb9caa27d953ff",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-07 18:56:24):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "539c0ceac166146bcdc3599ffb5ee711",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-10-26 13:32:17):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "523a53ec8b620915f96901bab2c3f735",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-12-14 14:37:42):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "cc0fc53384e55ff02f2f13ee53958b51",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-03-31 11:32:05):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "78607700b28d41a8e78ad7fe80279224",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-14 21:35:34):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "e86f3e32f737dd140a5b8b024bd9b098",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-09-26 12:54:16):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "8905acdf7dee567eefa9c8c1dc4e04f1",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-03-09 20:03:25):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "3e364a2f4e1d7186b9ca271908ef8d6d",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-02-02 11:59:27):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "3dfb66e5622e87c560cac9b7f55832f7",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-04-22 16:32:56):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "fb5f11ecabb3966784139c81004b3044",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-05-10 19:57:52):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "219965343e0fbbc26f906802ac4058f1",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-06-06 03:08:36):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "1bc8e294338599aaa330254fa113f7cd",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-08-26 02:07:10):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "7d631c75e0798f5b4aa11d849944687b",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-08-29 14:33:41):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "e6c650a4be782d3f4b6f12350a4b3bda",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-12-02 00:54:43):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "f390a01c825feccba6250dfbae3aab9f",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-10-30 20:30:20):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "a9eca38f23f2e49f59a97d5b1eb6b4cc",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2024-05-16 18:48:31):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "8b79f246fa0108a2ab7ee6e4a31fa868",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-10-22 13:48:09):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "a18d0c8e562a29e32a68e6ec8ea67cc0",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-10-18 19:39:27):\nspeed 20\npen green, 3\nrt 10\nfd 200\npen yellow, 10\nfor x in [1...10]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|>",
+    "9cfda8ebe34121dab9f0ea3cfb3132b3",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-05-23 14:25:07):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "ca00ca12b4027eace40dc255979b6a8a",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-05-11 16:06:19):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "bcc798386c17be7bf52352c3f3708cc5",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-11-06 14:12:06):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "909df87045eec7c0739b0277caa19005",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-03-04 17:29:35):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "aa90a951176cf1272b9ab2d58cf72f87",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-04-17 16:06:16):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "0c05b6d2ee5eed867a718bd4a8e619af",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-11-08 16:58:20):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "767f796dcc007895deb7a26d70453229",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-01-24 19:21:33):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "c564401347ac3f7199c6d9c1ce4f2d0a",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2024-04-04 17:17:39):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "375b50abcc86adeaa2dfad770714424f",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-11-02 12:30:59):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "6b2361367b11f540942da940f81333f7",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-11-05 13:25:47):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "2c19edf8585add69940e944d27c4a07d",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-03-19 16:56:58):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "357006c242407d33e4479e985d060022",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-02-27 16:02:05):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "41b26f758f70f7deab3ec2784c7103d4",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-09-26 13:32:41):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "6ac0e0939adafd006d4e4849e9dec0e3",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-02-10 14:29:53):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "f2c04e3927d0f8b7a6b1781f83e61425",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-08-25 17:53:04):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "3958662be0a10cba82c6f5a05b0c6930",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-01-18 12:36:20):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "03f7d0c514f43cd89bdad700699c1c4e",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-11 14:35:23):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "01c55e09200e918094b10c1f497d77ab",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-01-06 14:24:41):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "50dbce5de33bc3c5bf712e51cfd2423b",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-12-13 14:56:12):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "f8207a0f738bc767b0e3d8234da82f70",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-12-13 16:02:58):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "3ba86c5a95759f29a0600b7fd6b481aa",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-03-13 21:23:13):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "9ab6d08645bf068651c6d07a5fa0e72f",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-11-14 21:32:23):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "94096b36e62d99bfabaa6a390c304d87",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-02-26 19:02:53):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "16b50cd7c76b512ab25ee0521f13a130",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-03-23 16:40:22):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "098f02667d910c9833e0e4d631155025",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-06-07 02:26:36):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "5f582547d3bfc76a8b9edb17e770e188",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-03-06 06:28:33):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "9917e60dd2fdf6e21c11ced0a6f4c564",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-04-25 23:07:40):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "02dd0f1f6a4b762385d085d186410ec8",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-11-27 00:37:07):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "984409cc52dc745c682a68998f6e5d6c",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-04-24 18:25:22):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "655f98326a877c3ffcee2e701a8dc506",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-05-19 15:36:20):\nspeed 10\npen green, 10\nrt 10\nfd 200\npen yellow, 10\nfor x in [1...9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|>",
+    "a88c7aa3587da7317340f6aa1a8ba00f",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-03-24 16:56:27):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "a52981dfc61515e229abdd53fff60c12",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-11-15 20:13:29):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "93178cab085dd16eecbb9caa27d953ff",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2024-05-07 18:53:09):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "539c0ceac166146bcdc3599ffb5ee711",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-01-30 19:11:53):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "523a53ec8b620915f96901bab2c3f735",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-11-27 16:48:09):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "cc0fc53384e55ff02f2f13ee53958b51",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-05-16 10:25:51):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "78607700b28d41a8e78ad7fe80279224",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-12-04 03:21:12):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "e86f3e32f737dd140a5b8b024bd9b098",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-01-18 15:14:20):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "8905acdf7dee567eefa9c8c1dc4e04f1",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-18 15:54:41):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "3e364a2f4e1d7186b9ca271908ef8d6d",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-02-08 09:21:42):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|>",
+    "3dfb66e5622e87c560cac9b7f55832f7",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-11-18 23:07:20):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "fb5f11ecabb3966784139c81004b3044",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-12-11 15:53:26):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "219965343e0fbbc26f906802ac4058f1",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-01-14 00:19:38):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|><|endoftext|><|endoftext|>",
+    "1bc8e294338599aaa330254fa113f7cd",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2022-11-17 22:55:37):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|>",
+    "7d631c75e0798f5b4aa11d849944687b",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2024-04-18 00:24:55):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|>",
+    "e6c650a4be782d3f4b6f12350a4b3bda",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-16 00:06:06):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "f390a01c825feccba6250dfbae3aab9f",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-06-14 19:54:14):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "a9eca38f23f2e49f59a97d5b1eb6b4cc",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-03-20 06:41:24):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "8b79f246fa0108a2ab7ee6e4a31fa868",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-11-02 13:55:05):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|>",
+    "a18d0c8e562a29e32a68e6ec8ea67cc0",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-18 16:36:21):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "9cfda8ebe34121dab9f0ea3cfb3132b3",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-03-27 17:22:40):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "ca00ca12b4027eace40dc255979b6a8a",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-02-14 16:28:42):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "bcc798386c17be7bf52352c3f3708cc5",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-10-09 20:08:20):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "909df87045eec7c0739b0277caa19005",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-12-06 03:54:59):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "aa90a951176cf1272b9ab2d58cf72f87",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-08 17:09:25):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "0c05b6d2ee5eed867a718bd4a8e619af",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-03-04 02:08:09):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "767f796dcc007895deb7a26d70453229",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-04-07 16:07:27):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "c564401347ac3f7199c6d9c1ce4f2d0a",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2024-05-01 12:12:28):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|>",
+    "375b50abcc86adeaa2dfad770714424f",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-03-23 12:28:16):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|>",
+    "6b2361367b11f540942da940f81333f7",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-12-21 13:27:33):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|>",
+    "2c19edf8585add69940e944d27c4a07d",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-08-07 01:59:20):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "357006c242407d33e4479e985d060022",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-13 01:26:16):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "41b26f758f70f7deab3ec2784c7103d4",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-19 18:38:52):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "6ac0e0939adafd006d4e4849e9dec0e3",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-04-20 19:20:37):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|>",
+    "f2c04e3927d0f8b7a6b1781f83e61425",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-11-29 03:01:30):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "3958662be0a10cba82c6f5a05b0c6930",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-06-10 14:02:20):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|>",
+    "03f7d0c514f43cd89bdad700699c1c4e",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-10 23:42:28):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "01c55e09200e918094b10c1f497d77ab",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-01-28 15:59:09):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|>",
+    "50dbce5de33bc3c5bf712e51cfd2423b",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-12-07 20:57:29):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|>",
+    "f8207a0f738bc767b0e3d8234da82f70",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2024-02-12 18:33:46):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|>",
+    "3ba86c5a95759f29a0600b7fd6b481aa",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-03-07 02:17:02):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "9ab6d08645bf068651c6d07a5fa0e72f",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-01-12 16:03:13):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|>",
+    "94096b36e62d99bfabaa6a390c304d87",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-09-25 12:57:58):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "16b50cd7c76b512ab25ee0521f13a130",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-11-21 17:14:05):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "098f02667d910c9833e0e4d631155025",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2024-05-16 18:14:13):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|>",
+    "5f582547d3bfc76a8b9edb17e770e188",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-03-30 11:33:35):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|>",
+    "9917e60dd2fdf6e21c11ced0a6f4c564",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-04-12 16:40:57):\nspeed 10\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "02dd0f1f6a4b762385d085d186410ec8",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-09-22 12:47:25):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "984409cc52dc745c682a68998f6e5d6c",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2020-05-06 03:32:14):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "655f98326a877c3ffcee2e701a8dc506",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-01-11 20:00:47):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|>",
+    "a88c7aa3587da7317340f6aa1a8ba00f",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-02-23 01:26:20):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|>",
+    "a52981dfc61515e229abdd53fff60c12",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-04-05 17:28:34):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "93178cab085dd16eecbb9caa27d953ff",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-12-10 14:27:54):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|>",
+    "539c0ceac166146bcdc3599ffb5ee711",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-06-27 22:37:16):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "523a53ec8b620915f96901bab2c3f735",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-09-13 14:51:32):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "cc0fc53384e55ff02f2f13ee53958b51",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2023-03-27 11:20:35):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|>",
+    "78607700b28d41a8e78ad7fe80279224",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-11-02 14:48:58):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "e86f3e32f737dd140a5b8b024bd9b098",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-02-26 17:13:20):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|>",
+    "8905acdf7dee567eefa9c8c1dc4e04f1",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-14 19:10:02):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "3e364a2f4e1d7186b9ca271908ef8d6d",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2021-05-19 11:16:53):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|>",
+    "3dfb66e5622e87c560cac9b7f55832f7",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2017-04-25 16:05:18):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "fb5f11ecabb3966784139c81004b3044",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2018-05-04 14:09:55):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "219965343e0fbbc26f906802ac4058f1",
+    "dandelion"
+  ],
+  [
+    "dandelion<mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><mask><start>CODE 1 (2019-03-25 16:16:28):\nspeed 20\npen green\nrt 10\nfd 200\npen yellow, 10\nfor x in [1..9]\n  fd 50\n  bk 50\n  rt 360 / 9<|endoftext|><|endoftext|>",
+    "1bc8e294338599aaa330254fa113f7cd",
+    "dandelion"
+  ]
+]
