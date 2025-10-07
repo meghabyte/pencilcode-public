@@ -1,5 +1,9 @@
 # Overview
-This is the public release for the paper "Learning to Model Student Learning with 3.5 Million Program Traces". For any questions, please contact megha@cs.stanford.edu and alexisro@mit.edu !
+This is the public release for the paper *"Learning to Model Student Learning with 3.5 Million Program Traces"*.
+
+**Paper Link**:  https://arxiv.org/pdf/2510.05056
+
+For any questions, please contact megha@cs.stanford.edu and alexisro@mit.edu !
 
 We currently release a subset of our dataset and code that evaluates different metrics of program traces. 
 Concretely, we release traces for 50 users per each of 200 assignments. We incclude generated from the trace model, synthetic model, and last state model.
