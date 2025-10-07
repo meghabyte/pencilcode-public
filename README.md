@@ -8,7 +8,7 @@ For any questions, please contact megha@cs.stanford.edu and alexisro@mit.edu !
 We currently release a subset of our dataset and code that evaluates different metrics of program traces. 
 Concretely, we release traces for 50 users per each of 200 assignments. We incclude generated from the trace model, synthetic model, and last state model.
 
-We are unable to provide ground truth user data in this repository in order to protect the privacy of Pencil Code users (many are K-12 students). However, in coordination with Pencil Code, we will release a synthetic dataset generated from this model for every (username, program title) trace in the entire dataset. This, along with our models trained on anonymized data, will be shared on Hugging Face with gated permisions (https://huggingface.co/docs/hub/en/models-gated). **We will provide updates about the release here**
+We are unable to provide ground truth user data in this repository in order to protect the privacy of Pencil Code users (many are K-12 students). However, in coordination with Pencil Code, we will release a synthetic dataset generated from this model for every (username, program title) trace in the entire dataset, along with our models trained on anonymized data. We will also share the full data on Hugging Face with gated permisions (https://huggingface.co/docs/hub/en/models-gated), with access pending approval from the Pencil Code team.  **We will provide updates about the release here.**
 
 
 Example Usage:
