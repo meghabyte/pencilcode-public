@@ -1,8 +1,11 @@
 # Overview
-This is the public release for the paper "Learning to Model Student Learning with 3.5 Million Program Traces". 
+This is the public release for the paper "Learning to Model Student Learning with 3.5 Million Program Traces". For any questions, please contact megha@cs.stanford.edu and alexisro@mit.edu !
 
-For the current submission, we release a small sample of our dataset and code that evaluats different metrics of program traces. 
-Concretely, we release 50 traces for the "snowman" assignment from the ground truth data, synthetic model, last state model, and trace mode. 
+We currently release a subset of our dataset and code that evaluates different metrics of program traces. 
+Concretely, we release traces for 50 users per each of 200 assignments. We incclude generated from the trace model, synthetic model, and last state model.
+
+We are unable to provide ground truth user data in this repository in order to protect the privacy of Pencil Code users (many are K-12 students). However, in coordination with Pencil Code, we will release a synthetic dataset generated from this model for every (username, program title) trace in the entire dataset. This, along with our models trained on anonymized data, will be shared on Hugging Face with gated permisions (https://huggingface.co/docs/hub/en/models-gated). **We will provide updates about the release here**
+
 
 Example Usage:
 
